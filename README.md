@@ -12,6 +12,7 @@ My personal favorites are algorithms and programmatic challenges.
 
  There are things that I found useful and helpful in my learning journey: learning practices mainly Pomodoro technique:), Tony Buzan's Mind Maps and thoughts practices, keyboard master, meditations, hypnosis, juggling, guitar, funny things I love to laugh, sport lot of sport and last but not least books.
  
+#
 
 I dedicated myself to software engineering and focus to achieve. Now after 2 years I'm ready to put my awesome skills to work. 
 
