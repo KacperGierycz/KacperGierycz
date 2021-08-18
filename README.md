@@ -10,11 +10,6 @@ Besides programming, there are things that I found useful and helpful in my lear
 I dedicated myself to become a software engineer and focus to achieve it. Now after 2 years I'm ready to put my awesome skills to work. 
 
 
-- 👋 Hi, I’m @KacperGierycz
-- 👀 I’m interested in Java, Spring(BOOT),REST API, SQL, learning practices, meditation, hipnosis, books 
-- 🌱 I’m currently learning Spring, grinding(sql, hackerRank)
-- 💞️ I’m looking to collaborate on (well all above)
-- 📫 How to reach me post me here
 
 <!---
 KacperGierycz/KacperGierycz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
