@@ -1,7 +1,7 @@
 I'm a junior Java developer. I found my passion in programming and live with it since then it's challenging and wonderful. I live in Warsow and currently looking for a place to put my skills to use.
 
 
-My Interest in Java are web development: Spring, Spring Boot, MVC, REST API, and things that go with it SQL, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, HTML, CSS, JavaScript. All these wonderful and useful aspects of web programming are included in my projects.
+My Interest in Java are web development: Spring, Spring Boot, MVC, REST API, and things that go with it: Hibernate, SQL, JDBC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, HTML, CSS, JavaScript. All these wonderful and useful aspects of web programming are included in my projects.
 
 My personal favorites are algorithms and programmatic challenges.
 
