@@ -4,13 +4,13 @@ I'm a junior Java developer. I found my passion in programming and live with it 
 
 # My Interest in Java
 
-Web development: Spring, Spring Boot, MVC, REST API, and things that go with it: Hibernate, SQL, JDBC, JSP, Hibernate, JSON, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, HTML, CSS, JavaScript. All these wonderful and useful aspects of web programming are included in my projects.
+Server side programmnig but also web development: Spring, Spring Boot, MVC, REST API, and things that go with it: Hibernate, MySQL, JDBC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, HTML, CSS, JavaScript. All these wonderful and useful aspects of web programming are included in my projects.
 
 My personal favorites are algorithms and programmatic challenges.
 
 # Besides programming
 
- There are things that I found useful and helpful in my learning journey: learning practices mainly Pomodoro technique:), Tony Buzan's Mind Maps and thoughts practices, keyboard master, meditations, hypnosis, juggling, guitar, funny things I love to laugh, sport lot of sport and last but not least books.
+ There are things that I found useful and helpful in my learning journey: learning practices mainly Pomodoro technique:), Tony Buzan's Mind Maps and thoughts practices mnemonics, keyboard master, meditations, hypnosis, juggling, guitar, funny things I love to laugh, sport lot of sport and last but not least books.
  
 #
 
