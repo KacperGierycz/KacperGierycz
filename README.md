@@ -4,7 +4,7 @@ I'm a junior Java developer. I found my passion in programming and live with it 
 
 # My Interest in Java
 
-Server side programmnig but also web development: Spring, Spring Boot, MVC, REST API, and things that go with it: Hibernate, MySQL, JDBC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, HTML, CSS, JavaScript, AWS. All these wonderful and useful aspects of web programming are included in my projects.
+Server side programmnig but also web development: Spring, Spring Boot, REST API, and things that go with it: Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, HTML, CSS, JavaScript, TypeScript, AWS. All these wonderful and useful aspects of web programming are included in my projects.
 
 My personal favorites are algorithms and programmatic challenges.
 
