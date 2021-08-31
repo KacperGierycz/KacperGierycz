@@ -8,12 +8,14 @@ Server side programmnig but also web development: Spring, Spring Boot, REST API,
 
 My personal favorites are algorithms and programmatic challenges.
 
+# How I learn
+
 # Besides programming
 
  There are things that I found useful and helpful in my learning journey: learning practices mainly Pomodoro technique:), Tony Buzan's Mind Maps and thoughts practices mnemonics, keyboard master, meditations, hypnosis, juggling, guitar, funny things I love to laugh, sport lot of sport and last but not least books.
  
 #
-Coding callming me down.
+Coding calming me down.
  
 #
 
