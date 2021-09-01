@@ -1,4 +1,4 @@
-I'm a junior Java developer. I found my passion in programming and with timw it becae me live challenging and wonderful. I live in Warsow and currently looking for a place to put my skills to use.
+I'm a junior Java developer. I found my passion in programming it became my life it's challenging and wonderful. I live in Warsow and currently looking for a place to put my skills to use.
 
 
 
@@ -9,7 +9,7 @@ Server side programmnig but also web development: Spring, Spring Boot, REST API,
 My personal favorites are algorithms and programmatic challenges.
 
 <details>	
-  <summary><b>⚡ How I learn</b></summary>
+  <summary><b>#⚡ How I learn</b></summary>
  
  
   <br />
