@@ -8,20 +8,25 @@ Server side programmnig but also web development: Spring, Spring Boot, REST API,
 
 My personal favorites are algorithms and programmatic challenges.
 
+
+<h2 align="left" id="macropower-tech">How I learn</h2>
+
 <br>
 <details>	
-  <summary><b>⚡ # How I learn</b></summary>
- 
- 
+  <summary><b>⚡ # the beginning...story</b></summary> 
   <br />
-yea
+The beginning
+I wanted to be a sales agent for a software company so I learn a little about programming. After a little while, I found out that this stuff is so engaging, solving the exercises is so much more rewarding. The library was mine learning ground where found friend who was studying JavaScript. discussions about a data structures was thrilling. I got sucked into learning curiosity was winning I wanted more and more.
+  <br>
+The first steps I took with Coursera courses: learning how to learn, [computer science fundamentals & Java basics, ](https://coursera.org/share/58d86a3f9fdfe25e90012072d2cb758b )more advanced Java, and finally Algorithms but here stuff were hard only 10% success rate on Coursera After this I went to khan Acadamy to grind up math that dusted since mine engineering classes:) 252 video and 100 h of test done and I went thro the fire of Algorith class. Coursera set me up for a 1 year gave me greate programming skills and some general computer science knowlege to understand what to do next. Yes I had to figure the rest on my own. First was [Database Design](https://www.youtube.com/watch?v=ztHopE5Wnpc&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2) Cayleb Curry is a great guy, [MySQL FreeCodeCamp Course](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=16s) I realize that there is everything I gonna need, next is going to be the greatest stuff so far THE SPRING FRAMEWORK!!! lol the web development. From Chad Derby Love2Code [Spring & Hibernate](https://www.udemy.com/certificate/UC-793e2670-66b7-4fbf-beae-75fd2fb6cb07/), [Full Stack Angular Spring Boot](https://www.udemy.com/certificate/UC-73d4c3de-3f9e-4518-8ada-7850412a79dd/), [JSP Servlets JDBC](https://www.udemy.com/certificate/UC-bb22db36-8fd5-4105-8d89-0100a4878dac/), [Deploy Java Spring to AWS](https://www.udemy.com/certificate/UC-6d7b8480-fa39-41f4-8976-f86c0399edd5/) 
  
 </details>
 
 
 # Besides programming
 
- There are things that I found useful and helpful in my learning journey: learning practices mainly Pomodoro technique:), Tony Buzan's Mind Maps and thoughts practices mnemonics, keyboard master, meditations, hypnosis, juggling, guitar, funny things I love to laugh, sport lot of sport and last but not least books.
+If life became a quest for knowledge of Java programming it's exciting. The challenge is how to do it 10h/d 6d/week and stay consistent for years yea 2.3y. Need for mental variety and healthy habits are necessary:)  
+ There are things that I found useful and helpful to keep me up and running smoothly and relaxed: learning practices mainly Pomodoro technique:), Tony Buzan's Mind Maps and thoughts practices mnemonics, walks in the park, friends, keyboard master, meditations, hypnosis, juggling, guitar, funny things I love to laugh, sport lot of sport and last but not least books.
  
 #
 Coding calming me down.
