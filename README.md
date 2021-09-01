@@ -9,7 +9,7 @@ Server side programmnig but also web development: Spring, Spring Boot, REST API,
 My personal favorites are algorithms and programmatic challenges.
 
 <details>	
-  <summary><b>#⚡ How I learn</b></summary>
+  <summary><b>⚡ # How I learn</b></summary>
  
  
   <br />
