@@ -90,7 +90,7 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
   <br />
 
   I achieve a lot and I'm proud of it.
-  The way I took needed passion, persistence, iron will to overcome obstacles, intelligence, a positive attitude, and a sense of humor to keep it all together.
+  The way I've chosen needed passion, persistence, iron will to overcome obstacles, intelligence, creativity a positive attitude, and a sense of humor to keep it     all together.
   There is still a lot to learn and create ahead this is what I'm waiting for. 
   
   </details>
