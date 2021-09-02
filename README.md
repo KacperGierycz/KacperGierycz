@@ -4,7 +4,7 @@ I'm a junior Java developer. I found my passion in programming it became my life
 
 # My Interest in Java
 
-Server side programmnig but also web development: Spring, Spring Boot, REST API, and things that go with it: Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jax-RS, Tomcat, Angular, OKTA, HTML, CSS, JavaScript, TypeScript, AWS, Git. All these wonderful and useful aspects of programming are included in my projects.
+Server-side programming but also web development: Spring, Spring Boot, REST API, and things that go with it: Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jax-RS, Tomcat, Angular, OKTA, HTML, CSS, JavaScript, TypeScript, AWS, Git. All these wonderful and useful aspects of programming are included in my projects.
 
 My personal favorites are algorithms and programmatic challenges
 
@@ -17,18 +17,18 @@ My personal favorites are algorithms and programmatic challenges
   <br />
 The beginning
   <br>
-I was a sales guy for years and wanted to get into a software company, so I learn a little about programming. After a while, I found out that this stuff is  engaging, solving the exercises were strangly rewarding propoptionaly to difficulty. The library was mine learning ground, where I found friends who learn diferent things, one was studying JavaScript other UML. Discussions about programming and mental process of learing was thrilling. I got sucked into learning curiosity, was winning I wanted more and more.
+I was a sales guy for years and wanted to get into a software company, so I learn a little about programming. After a while, I found out that this stuff is engaging, solving the exercises was strangely rewarding proportionally to difficulty. The library was my learning ground, where I found friends who learn different things, one was studying JavaScript other UML. Discussions about programming and the mental process of learning were thrilling. I got sucked into learning curiosity, was winning I wanted more and more.
   <br>
   
-The first steps I took was with Coursera courses: learning how to learn, [computer science fundamentals & Java basics,](https://coursera.org/share/58d86a3f9fdfe25e90012072d2cb758b),then [more advanced Java](https://user-images.githubusercontent.com/57790974/131525387-5df6ca4d-8db5-44ea-91b6-2d042a48689d.jpg), and finally [Data Structures and Algorithms](https://user-images.githubusercontent.com/57790974/131529228-db168e4a-a67a-4ae8-a625-62750bbac3e9.jpg) in previous courses material was hard but in a noobie friendly way, here stuff beggins to be hard just like it should to be, peers has only 10% success rate for passing. Math was an issue the precalculus level needed at least. I asked a friend mathematician who was learning childrens in library;
+The first steps I took was with Coursera courses: learning how to learn, [computer science fundamentals & Java basics,](https://coursera.org/share/58d86a3f9fdfe25e90012072d2cb758b), then [more advanced Java](https://user-images.githubusercontent.com/57790974/131525387-5df6ca4d-8db5-44ea-91b6-2d042a48689d.jpg), and finally [Data Structures and Algorithms](https://user-images.githubusercontent.com/57790974/131529228-db168e4a-a67a-4ae8-a625-62750bbac3e9.jpg) in previous courses material was hard but in a noobie friendly way, here stuff begins to be hard just like it should be, peers have only 10% success rate for passing. Math was an issue the precalculus level needed at least. I asked a friend mathematician who was learning children in the library;
   <br>
   -What is discreet mathematics?
   <br>
-  -The dark and twisted math with a letter e in it (he awser with a puzzling look).
+  -The dark and twisted math with a letter e in it (he answer with a puzzling look).
   <br>
   -Yea this is what I'm looking for
   <br>
-  -This material was far back in accademy and I would have to study it again.
+  -This material was far back in the academy and I would have to study it again.
   <br> 
   -What now then...
   <br>
@@ -38,7 +38,7 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
   <br>
   -The Khan Academy
   <br>
-  To the math grinding then, dusted for decade since engineering classes:) [252 videos and 100 h](https://user-images.githubusercontent.com/57790974/131519469-3cce47db-6075-4af3-b88c-dcbe807b988e.jpg) of test later [precalculus done](https://user-images.githubusercontent.com/57790974/131519490-041a41de-fed6-4d8f-a708-46755d713228.jpg). I had so much fun then math is just a woder so smooth and easy. YEA! I went thro the fire of Algorith class. During this time pandemic came and libraries closed I was waried wold I be able to study at home, this was chalenging and still just pushing little harder.<br> Coursera set me up for a 1 year gave me greate programming skills and some general computer science knowlege to understand what to do next. Yes I had to figure the rest on my own. First was [Database Design](https://www.youtube.com/watch?v=ztHopE5Wnpc&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2) Cayleb Curry is a great guy, [MySQL FreeCodeCamp Course](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=16s) I realize that there is everything I gonna need. Next is going to be the greatest stuff so far THE SPRING FRAMEWORK!!! the web development. From Chad Derbys Love2Code [Spring & Hibernate](https://www.udemy.com/certificate/UC-793e2670-66b7-4fbf-beae-75fd2fb6cb07/), [Full Stack Angular Spring Boot](https://www.udemy.com/certificate/UC-73d4c3de-3f9e-4518-8ada-7850412a79dd/), [JSP Servlets JDBC](https://www.udemy.com/certificate/UC-bb22db36-8fd5-4105-8d89-0100a4878dac/), [Deploy Java Spring to AWS](https://www.udemy.com/certificate/UC-6d7b8480-fa39-41f4-8976-f86c0399edd5/). After this I done Spring home Guides and tutorials. Swithed to [Java Brains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q) and done done almost all Courses. <br>  Now came the time when I feel I'm ready and need to find real projects and people to discuss ideas to expand mine expertize.  
+  To the math grinding then, dusted for a decade since engineering classes:) [252 videos and 100 h](https://user-images.githubusercontent.com/57790974/131519469-3cce47db-6075-4af3-b88c-dcbe807b988e.jpg) of test later [precalculus done](https://user-images.githubusercontent.com/57790974/131519490-041a41de-fed6-4d8f-a708-46755d713228.jpg). I had so much fun then math is just wonder so smooth and easy. YEA! I went through the fire of Algorithm class. During this time pandemic came and libraries closed I was worried would I be able to study at home, this was challenging and still just pushing a little harder.<br> Coursera set me up for a 1 year gave me great programming skills and some general computer science knowledge to understand what to do next. Yes, I had to figure the rest on my own. First was [Database Design](https://www.youtube.com/watch?v=ztHopE5Wnpc&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2) Cayleb Curry is a great guy, [MySQL FreeCodeCamp Course](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=16s) I realize that there is everything I gonna need. Next is going to be the greatest stuff so far THE SPRING FRAMEWORK!!! the web development. From Chad Derbys Love2Code [Spring & Hibernate](https://www.udemy.com/certificate/UC-793e2670-66b7-4fbf-beae-75fd2fb6cb07/), [Full Stack Angular Spring Boot](https://www.udemy.com/certificate/UC-73d4c3de-3f9e-4518-8ada-7850412a79dd/), [JSP Servlets JDBC](https://www.udemy.com/certificate/UC-bb22db36-8fd5-4105-8d89-0100a4878dac/), [Deploy Java Spring to AWS](https://www.udemy.com/certificate/UC-6d7b8480-fa39-41f4-8976-f86c0399edd5/). After this, I have done Spring home Guides and tutorials. Switched to [Java Brains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q) and done almost all Courses. <br>  Now came the time when I feel I'm ready and need to find real projects and people to discuss ideas to expand my expertise.  
  
 </details>
 
