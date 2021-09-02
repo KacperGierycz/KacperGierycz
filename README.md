@@ -13,7 +13,7 @@ My personal favorites are algorithms and programmatic challenges
 
 <br>
 <details>	
-  <summary><b>⚡ # The beginning...story</b></summary> 
+  <summary><b>⚡  The beginning...story</b></summary> 
   <br />
 The beginning
   <br>
@@ -46,7 +46,7 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
 
 <br>
 <details>	
-  <summary><b>✨ # My Wall of Certificates </b></summary> 
+  <summary><b>✨  My Wall of Certificates </b></summary> 
   <br />
   
 ![Java Programming and Software Engineering Fundamentals](https://user-images.githubusercontent.com/57790974/131519732-f70f9049-bc53-4186-a1ae-871f5f4fcce3.jpg)
@@ -86,12 +86,12 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
 
 <br>
 <details>	
-  <summary><b>🍒 The Conclus </b></summary> 
+  <summary><b>🍒  The Conclusion </b></summary> 
   <br />
 
-  I achive a lot and I'm proud of it.
-  The way I took needed passion, persistence, iron will to overcome obstacles, inteligence, positive aptitude and a sesns of humor to keep it together.
-  There is stil a lot to learn and create ahead this is what I'm waiting for.  
+  I achieve a lot and I'm proud of it.
+  The way I took needed passion, persistence, iron will to overcome obstacles, intelligence, a positive attitude, and a sense of humor to keep it all together.
+  There is still a lot to learn and create ahead this is what I'm waiting for. 
   
   </details>
 
