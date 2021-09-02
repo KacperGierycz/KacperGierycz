@@ -48,7 +48,7 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
   <summary><b>✨ # Mine Wall of Cerificates </b></summary> 
   <br />
   
-  ![Java Programming and Software Engineering Fundamentals](https://user-images.githubusercontent.com/57790974/131519732-f70f9049-bc53-4186-a1ae-871f5f4fcce3.jpg)
+![Java Programming and Software Engineering Fundamentals](https://user-images.githubusercontent.com/57790974/131519732-f70f9049-bc53-4186-a1ae-871f5f4fcce3.jpg)
 ![Programming Foundations with JavaScript, HTML and CSS](https://user-images.githubusercontent.com/57790974/131519749-673fc919-66ed-49f6-8f4f-a7e8d97f83a4.jpg)
 ![Java Programming Arrays, Lists, and Structured Data](https://user-images.githubusercontent.com/57790974/131519737-1d53e182-48c5-4db9-9672-1f8f29ec65ed.jpg)
 ![Java Programming Build a Recommendation System](https://user-images.githubusercontent.com/57790974/131519738-4aec92c3-5bbd-4a92-a54e-cb80aa091e0a.jpg)
@@ -70,12 +70,16 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
 ![Advanced Algorithms and Complexity](https://user-images.githubusercontent.com/57790974/131529340-9cd9fd12-1985-4ff5-954c-17f19ea391dc.jpg)
 ![Genome Assembly Programming Challenge](https://user-images.githubusercontent.com/57790974/131529351-7d67f8d8-bf4a-46ef-9b2e-9c3ef0635e98.jpg)
 
-
+![Deploy Java Spring to AWS](https://user-images.githubusercontent.com/57790974/131817550-2800ec39-7f5e-467b-91ae-049fc1542d37.jpg)
+![Full Stack Angular Spring Boot](https://user-images.githubusercontent.com/57790974/131817562-7d6696bd-c07f-4565-83e6-e3748f16ac33.jpg)
+![JSP Servlets JDBC](https://user-images.githubusercontent.com/57790974/131817571-7e9e3169-aecc-4d01-a394-0824a59e9e38.jpg)
+![Spring   Hibernate](https://user-images.githubusercontent.com/57790974/131817586-2606a05b-e29c-44f4-8696-d01e0cf10375.jpg)
 
 
 ![khan profile2](https://user-images.githubusercontent.com/57790974/131519455-f6138392-bc8f-40c0-855b-acbf3fb25da6.jpg)
 ![khan progres2](https://user-images.githubusercontent.com/57790974/131519469-3cce47db-6075-4af3-b88c-dcbe807b988e.jpg)
 ![khan2](https://user-images.githubusercontent.com/57790974/131519490-041a41de-fed6-4d8f-a708-46755d713228.jpg)
+
   
 </details>
 
