@@ -13,7 +13,7 @@ My personal favorites are algorithms and programmatic challenges
 
 <br>
 <details>	
-  <summary><b>⚡ # the beginning...story</b></summary> 
+  <summary><b>⚡ # The beginning...story</b></summary> 
   <br />
 The beginning
   <br>
@@ -38,8 +38,45 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
   <br>
   -The Khan Academy
   <br>
-  To the math grinding then, dusted for decade since engineering classes:) [252 videos and 100 h](https://user-images.githubusercontent.com/57790974/131519469-3cce47db-6075-4af3-b88c-dcbe807b988e.jpg) of test later [precalculus done](https://user-images.githubusercontent.com/57790974/131519490-041a41de-fed6-4d8f-a708-46755d713228.jpg). I had so much fun then math is just a woder so smooth and easy. YEA! I went thro the fire of Algorith class. Coursera set me up for a 1 year gave me greate programming skills and some general computer science knowlege to understand what to do next. Yes I had to figure the rest on my own. First was [Database Design](https://www.youtube.com/watch?v=ztHopE5Wnpc&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2) Cayleb Curry is a great guy, [MySQL FreeCodeCamp Course](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=16s) I realize that there is everything I gonna need, next is going to be the greatest stuff so far THE SPRING FRAMEWORK!!! lol the web development. From Chad Derby Love2Code [Spring & Hibernate](https://www.udemy.com/certificate/UC-793e2670-66b7-4fbf-beae-75fd2fb6cb07/), [Full Stack Angular Spring Boot](https://www.udemy.com/certificate/UC-73d4c3de-3f9e-4518-8ada-7850412a79dd/), [JSP Servlets JDBC](https://www.udemy.com/certificate/UC-bb22db36-8fd5-4105-8d89-0100a4878dac/), [Deploy Java Spring to AWS](https://www.udemy.com/certificate/UC-6d7b8480-fa39-41f4-8976-f86c0399edd5/) 
+  To the math grinding then, dusted for decade since engineering classes:) [252 videos and 100 h](https://user-images.githubusercontent.com/57790974/131519469-3cce47db-6075-4af3-b88c-dcbe807b988e.jpg) of test later [precalculus done](https://user-images.githubusercontent.com/57790974/131519490-041a41de-fed6-4d8f-a708-46755d713228.jpg). I had so much fun then math is just a woder so smooth and easy. YEA! I went thro the fire of Algorith class. Coursera set me up for a 1 year gave me greate programming skills and some general computer science knowlege to understand what to do next. Yes I had to figure the rest on my own. First was [Database Design](https://www.youtube.com/watch?v=ztHopE5Wnpc&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2) Cayleb Curry is a great guy, [MySQL FreeCodeCamp Course](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=16s) I realize that there is everything I gonna need, next is going to be the greatest stuff so far THE SPRING FRAMEWORK!!! the web development. From Chad Derbys Love2Code [Spring & Hibernate](https://www.udemy.com/certificate/UC-793e2670-66b7-4fbf-beae-75fd2fb6cb07/), [Full Stack Angular Spring Boot](https://www.udemy.com/certificate/UC-73d4c3de-3f9e-4518-8ada-7850412a79dd/), [JSP Servlets JDBC](https://www.udemy.com/certificate/UC-bb22db36-8fd5-4105-8d89-0100a4878dac/), [Deploy Java Spring to AWS](https://www.udemy.com/certificate/UC-6d7b8480-fa39-41f4-8976-f86c0399edd5/) 
  
+</details>
+
+
+<br>
+<details>	
+  <summary><b>✨ # Mine Wall of Cerificates </b></summary> 
+  <br />
+  
+  ![Java Programming and Software Engineering Fundamentals](https://user-images.githubusercontent.com/57790974/131519732-f70f9049-bc53-4186-a1ae-871f5f4fcce3.jpg)
+![Programming Foundations with JavaScript, HTML and CSS](https://user-images.githubusercontent.com/57790974/131519749-673fc919-66ed-49f6-8f4f-a7e8d97f83a4.jpg)
+![Java Programming Arrays, Lists, and Structured Data](https://user-images.githubusercontent.com/57790974/131519737-1d53e182-48c5-4db9-9672-1f8f29ec65ed.jpg)
+![Java Programming Build a Recommendation System](https://user-images.githubusercontent.com/57790974/131519738-4aec92c3-5bbd-4a92-a54e-cb80aa091e0a.jpg)
+![Java Programming Principles of Software Design](https://user-images.githubusercontent.com/57790974/131519743-46b0903d-50b7-4455-9490-65b28bd8230d.jpg)
+![Java Programming Solving Problems with Software](https://user-images.githubusercontent.com/57790974/131519747-6ca7f067-3b01-4865-8239-38fdf128a343.jpg)
+![Object Oriented Java Programming Data Structures and Beyond](https://user-images.githubusercontent.com/57790974/131525387-5df6ca4d-8db5-44ea-91b6-2d042a48689d.jpg)
+![Object Oriented Programming in Java](https://user-images.githubusercontent.com/57790974/131525424-b91223e2-82e3-42c0-b9ae-be7725dc7158.jpg)
+![Data Structures and Performance](https://user-images.githubusercontent.com/57790974/131525433-141d6dac-abe4-4124-b998-35896205739f.jpg)
+![Advanced Data Structures in Java](https://user-images.githubusercontent.com/57790974/131525472-78618f40-5833-4544-bae6-a07341caa4cd.jpg)
+![Mastering the Software Engineering Interview](https://user-images.githubusercontent.com/57790974/131525508-0faaf503-88c1-47e7-92f5-cf272629e042.jpg)
+![Capstone Analyzing (Social) Network Data](https://user-images.githubusercontent.com/57790974/131525527-f3458fcd-d385-4b0a-96c5-7aed1459f157.jpg)
+
+
+![Data Structures and Algorithms](https://user-images.githubusercontent.com/57790974/131529228-db168e4a-a67a-4ae8-a625-62750bbac3e9.jpg)
+![Data Structures](https://user-images.githubusercontent.com/57790974/131529273-a2d0315e-83b0-4219-a6e1-f4ef1322ba05.jpg)
+![Algorithms on Strings](https://user-images.githubusercontent.com/57790974/131529286-ee6f9e00-7f0a-4e14-bbda-fe944fe4329f.jpg)
+![Algorithms on Graphs](https://user-images.githubusercontent.com/57790974/131529305-1618569d-8941-48de-8dd9-b6c328b99bd6.jpg)
+![Algorithmic Toolbox](https://user-images.githubusercontent.com/57790974/131529330-d95345dd-b38a-4a37-9c2b-c15d6ab16e3d.jpg)
+![Advanced Algorithms and Complexity](https://user-images.githubusercontent.com/57790974/131529340-9cd9fd12-1985-4ff5-954c-17f19ea391dc.jpg)
+![Genome Assembly Programming Challenge](https://user-images.githubusercontent.com/57790974/131529351-7d67f8d8-bf4a-46ef-9b2e-9c3ef0635e98.jpg)
+
+
+
+
+![khan profile2](https://user-images.githubusercontent.com/57790974/131519455-f6138392-bc8f-40c0-855b-acbf3fb25da6.jpg)
+![khan progres2](https://user-images.githubusercontent.com/57790974/131519469-3cce47db-6075-4af3-b88c-dcbe807b988e.jpg)
+![khan2](https://user-images.githubusercontent.com/57790974/131519490-041a41de-fed6-4d8f-a708-46755d713228.jpg)
+  
 </details>
 
 
