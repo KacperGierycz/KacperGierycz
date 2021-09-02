@@ -45,7 +45,7 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
 
 <br>
 <details>	
-  <summary><b>✨ # Mine Wall of Cerificates </b></summary> 
+  <summary><b>✨ # My Wall of Certificates </b></summary> 
   <br />
   
 ![Java Programming and Software Engineering Fundamentals](https://user-images.githubusercontent.com/57790974/131519732-f70f9049-bc53-4186-a1ae-871f5f4fcce3.jpg)
