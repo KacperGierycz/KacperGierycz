@@ -84,6 +84,16 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
   
 </details>
 
+<br>
+<details>	
+  <summary><b>🍒 The Conclus </b></summary> 
+  <br />
+
+  I achive a lot and I'm proud of it.
+  The way I took needed passion, persistence, iron will to overcome obstacles, inteligence, positive aptitude and a sesns of humor to keep it together.
+  There is stil a lot to learn and create ahead this is what I'm waiting for.  
+  
+  </details>
 
 # Besides programming
 
