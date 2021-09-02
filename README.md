@@ -20,13 +20,25 @@ The beginning
 I was a sales guy for years and wanted to get into a software company, so I learn a little about programming. After a while, I found out that this stuff is  engaging, solving the exercises is so strangly rewarding propoptionaly to difficulty. The library was mine learning ground, where I found friends who learn diferent things one was studying JavaScript. Discussions about a data structures and mental process of learing was thrilling. I got sucked into learning curiosity, was winning I wanted more and more.
   <br>
   
-The first steps I took was with Coursera courses: learning how to learn, [computer science fundamentals & Java basics,](https://coursera.org/share/58d86a3f9fdfe25e90012072d2cb758b) [more advanced Java](https://user-images.githubusercontent.com/57790974/131525387-5df6ca4d-8db5-44ea-91b6-2d042a48689d.jpg), and finally [Algorithms](https://user-images.githubusercontent.com/57790974/131529228-db168e4a-a67a-4ae8-a625-62750bbac3e9.jpg) here stuff beggins to be hard, peers has only 10% success rate on Coursera. Math was an issue the precalculus level needed. I asked a friend mathematician who was learning childrens in library
+The first steps I took was with Coursera courses: learning how to learn, [computer science fundamentals & Java basics,](https://coursera.org/share/58d86a3f9fdfe25e90012072d2cb758b),then [more advanced Java](https://user-images.githubusercontent.com/57790974/131525387-5df6ca4d-8db5-44ea-91b6-2d042a48689d.jpg), and finally [Data Structures and Algorithms](https://user-images.githubusercontent.com/57790974/131529228-db168e4a-a67a-4ae8-a625-62750bbac3e9.jpg) in previous courses material was hard but in a noobie friendly way, here stuff beggins to be hard just like it should to be, peers has only 10% success rate for passing. Math was an issue the precalculus level needed at least. I asked a friend mathematician who was learning childrens in library;
   <br>
-  -what is discreet mathematics?
+  -What is discreet mathematics?
   <br>
-  (he awser with a puzzling look) -the dark and twisted math with a letter e in it.
+  -The dark and twisted math with a letter e in it (he awser with a puzzling look).
   <br>
-  Explain me that this material was far back in accademy and needed to study it again well no do then but If I want he will can give me a secret. How to learn math, and told me About Khan Academy. To the math grinding then, dusted long ago since engineering classes:) 252 video and 100 h of test done. YEA! I went thro the fire of Algorith class. Coursera set me up for a 1 year gave me greate programming skills and some general computer science knowlege to understand what to do next. Yes I had to figure the rest on my own. First was [Database Design](https://www.youtube.com/watch?v=ztHopE5Wnpc&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2) Cayleb Curry is a great guy, [MySQL FreeCodeCamp Course](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=16s) I realize that there is everything I gonna need, next is going to be the greatest stuff so far THE SPRING FRAMEWORK!!! lol the web development. From Chad Derby Love2Code [Spring & Hibernate](https://www.udemy.com/certificate/UC-793e2670-66b7-4fbf-beae-75fd2fb6cb07/), [Full Stack Angular Spring Boot](https://www.udemy.com/certificate/UC-73d4c3de-3f9e-4518-8ada-7850412a79dd/), [JSP Servlets JDBC](https://www.udemy.com/certificate/UC-bb22db36-8fd5-4105-8d89-0100a4878dac/), [Deploy Java Spring to AWS](https://www.udemy.com/certificate/UC-6d7b8480-fa39-41f4-8976-f86c0399edd5/) 
+  -Yea this is what I'm looking for
+  <br>
+  -This material was far back in accademy and I would have to study it again.
+  <br> 
+  -What now then...
+  <br>
+  -But I can tell You a secret there is a place where You can learn math for good if you want
+  <br>
+  -yes yes go on
+  <br>
+  - The Khan Academy
+  <br>
+  To the math grinding then, dusted for decade since engineering classes:) 252 video and 100 h of test done. YEA! I went thro the fire of Algorith class. Coursera set me up for a 1 year gave me greate programming skills and some general computer science knowlege to understand what to do next. Yes I had to figure the rest on my own. First was [Database Design](https://www.youtube.com/watch?v=ztHopE5Wnpc&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=2) Cayleb Curry is a great guy, [MySQL FreeCodeCamp Course](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=16s) I realize that there is everything I gonna need, next is going to be the greatest stuff so far THE SPRING FRAMEWORK!!! lol the web development. From Chad Derby Love2Code [Spring & Hibernate](https://www.udemy.com/certificate/UC-793e2670-66b7-4fbf-beae-75fd2fb6cb07/), [Full Stack Angular Spring Boot](https://www.udemy.com/certificate/UC-73d4c3de-3f9e-4518-8ada-7850412a79dd/), [JSP Servlets JDBC](https://www.udemy.com/certificate/UC-bb22db36-8fd5-4105-8d89-0100a4878dac/), [Deploy Java Spring to AWS](https://www.udemy.com/certificate/UC-6d7b8480-fa39-41f4-8976-f86c0399edd5/) 
  
 </details>
 
