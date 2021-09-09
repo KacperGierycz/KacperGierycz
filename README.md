@@ -1,4 +1,4 @@
-I'm a junior Java developer. I found my passion in programming it became my life it's challenging and wonderful. I live in Warsow and currently looking for a place to put my skills to use.
+I'm a Java developer. I found my passion in programming it became my life it's challenging and wonderful. I live in Warsow and currently looking for a place to put my skills to use.
 
 
 
