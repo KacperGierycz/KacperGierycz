@@ -4,7 +4,7 @@ I'm a Java developer. I found my passion in programming it became my life it's c
 
 # My Interest in Java
 
-Server-side programming but also web development: Spring, JUnit, Spring Boot, REST API, and things that go with it: Hibernate, Mockito, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, OKTA, HTML, CSS, JavaScript, TypeScript, AWS, Git. All these wonderful and useful aspects of programming are included in my projects.
+Server-side programming but also web development: Spring, JUnit, Spring Boot, REST API, and things that go with it: Mockito, Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, OKTA, HTML, CSS, JavaScript, TypeScript, AWS, Git. All these wonderful and useful aspects of programming are included in my projects.
 
 My personal favorites are algorithms and programmatic challenges on [HackerRank](https://www.hackerrank.com/kacpergierycz)
 
