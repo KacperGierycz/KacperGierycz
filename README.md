@@ -1,10 +1,10 @@
-I'm a Java developer. I found my passion in programming it became my life it's challenging and wonderful. I live in Warsaw and currently looking for a place to put my skills to use.
+I'm a Java developer. I found my passion in programming it became my life it's challenging and wonderful. Grit, perservirence and focus are my way. 
 
 
 
 # My Interest in Java
 
-Server-side programming but also web development: Spring, JUnit, Spring Boot, REST API, and things that go with it: Mockito, Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, OKTA, HTML, CSS, JavaScript, TypeScript, AWS, Git. All these wonderful and useful aspects of programming are included in my projects.
+Server-side programming with web development: Spring, Spring Boot, REST API, JUnit and things that go with it: Mockito, Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, OKTA, HTML, CSS, JavaScript, TypeScript, AWS, Git. All these wonderful and useful aspects of programming are included in my projects.
 
 My personal favorites are algorithms and programmatic challenges on [HackerRank](https://www.hackerrank.com/kacpergierycz)
 
@@ -17,7 +17,7 @@ My personal favorites are algorithms and programmatic challenges on [HackerRank]
   <br />
 The beginning
   <br>
-I was a sales guy for years and wanted to get into a software company, so I learn a little about programming. After a while, I found out that this stuff is engaging, solving the exercises was strangely rewarding proportionally to difficulty. The library was my learning ground, where I found friends who learn different things, one was studying JavaScript other UML. Discussions about programming and the mental process of learning were thrilling. I got sucked into learning curiosity, was winning I wanted more and more.
+I was a sales guy for years and wanted to get into a software, so I learn a little about programming. After a while, I found out that this stuff is engaging, solving the exercises was rewarding proportionally to difficulty. The library was my learning ground, where I found friends who learn different things, one was studying JavaScript other UML. Discussions about programming and the mental process of learning were thrilling. I got sucked into learning curiosity, was winning I wanted more and more.
   <br>
   
 The first steps I took was with Coursera courses: learning how to learn, [computer science fundamentals & Java basics,](https://coursera.org/share/58d86a3f9fdfe25e90012072d2cb758b), then [more advanced Java](https://user-images.githubusercontent.com/57790974/131525387-5df6ca4d-8db5-44ea-91b6-2d042a48689d.jpg), and finally [Data Structures and Algorithms](https://user-images.githubusercontent.com/57790974/131529228-db168e4a-a67a-4ae8-a625-62750bbac3e9.jpg) in previous courses material was hard but in a noobie friendly way, here stuff begins to be hard just like it should be, peers have only 10% success rate for passing. Math was an issue the precalculus level needed at least. I asked a friend mathematician who was giving lessosns in the library;
@@ -91,7 +91,7 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
   <summary><b>🍒  The Conclusion </b></summary> 
   <br />
 
-  I achieve a lot and I'm proud of it.
+  I learn a lot and I'm proud of it.
   <br>
   The way I've chosen needed passion, persistence, iron will to overcome obstacles, intelligence, creativity, curiosity a positive attitude, social and a sense of humor to keep it all together.
   <br>
@@ -101,7 +101,7 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
 
 # Besides programming
 
-When life became a quest for knowledge of Java programming it's exciting. The challenge is how to do it 8-10h/d 6d/week and stay consistent for years yea 2.3y. Need for mental variety and healthy habits are necessary:)  
+When life became a quest for knowledge of Java programming it's exciting. The challenge is how to do it 8-10h/d 6d/week and stay consistent for years yea 2.5y. Need for mental variety and healthy habits are necessary:)  
  There are things that I found useful and helpful to keep me up and running smoothly and relaxed: learning practices mainly Pomodoro technique:), Tony Buzan's Mind Maps and thoughts practices mnemonics, walks in the park, friends, keyboard master, meditations, hypnosis, juggling, guitar, funny things I love to laugh, sport lot of sport and last but not least books.
  
 #
@@ -109,7 +109,7 @@ Coding calms me down.
  
 #
 
-I dedicated myself to software engineering and focus to achieve. Now after 2 years I'm ready to put my awesome skills to work. 
+I dedicated myself to software engineering and focus to achieve. Now after 2.5 years I'm ready to put my awesome skills to work. 
 
 
 
