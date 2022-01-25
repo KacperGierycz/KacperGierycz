@@ -6,7 +6,7 @@ I'm a Java developer. I found my passion in programming it became my life it's c
 
 Server-side programming with web development: Spring, Spring Boot, REST API, JUnit and things that go with it: Mockito, Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, OKTA, HTML, CSS, JavaScript, TypeScript, AWS, Git. All these wonderful and useful aspects of programming are included in my projects.
 
-My personal favorites are algorithms and programmatic challenges on [HackerRank](https://www.hackerrank.com/kacpergierycz)
+My personal favorites are algorithms and programmatic challenges on [HackerRankProfile](https://www.hackerrank.com/kacpergierycz)
 
 
 <h2 align="left" id="macropower-tech">How I learn</h2>
