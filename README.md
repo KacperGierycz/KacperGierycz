@@ -113,7 +113,7 @@ Coding calms me down.
  
 #
 
-I set myself to achieve mastery in computer science. Now after 2.5 years I'm ready. 
+I set myself to achieve mastery in computer science. I can write application in Java switch to eny language with exeption to C and asembly, implements algorithms and have funn doing it. Now after 2.5 years I'm ready. 
 
 
 
