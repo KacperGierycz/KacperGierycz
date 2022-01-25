@@ -106,14 +106,14 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
 # Besides programming
 
 When life became a quest for knowledge of Java programming it's exciting. The challenge is how to do it 8-10h/d 6d/week and stay consistent for years yea 2.5y. Need for mental variety and healthy habits are necessary:)  
- There are things that I found useful and helpful to keep me up and running smoothly and relaxed: learning practices mainly Pomodoro technique:), Tony Buzan's Mind Maps and thoughts practices mnemonics, walks in the park, friends, keyboard master, meditations, hypnosis, juggling, guitar, funny things I love to laugh, sport lot of sport and last but not least books.
+ There are things that I found useful and helpful to keep me up and running smoothly and relaxed: learning practices mainly Pomodoro technique:), Tony Buzan's Mind Maps and thoughts practices mnemonics, walks in the park, friends, keyboard master, meditations, self hypnosis, juggling, guitar, funny things I love to laugh, sport lot of sport and last but not least books.
  
 #
 Coding calms me down.
  
 #
 
-I dedicated myself to software engineering and focus to achieve. Now after 2.5 years I'm ready to put my awesome skills to work. 
+I set myself to achieve mastery in computer science. Now after 2.5 years I'm ready. 
 
 
 
