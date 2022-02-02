@@ -80,7 +80,8 @@ The first steps I took was with Coursera courses: learning how to learn, [comput
 ![Full Stack Angular Spring Boot](https://user-images.githubusercontent.com/57790974/131817562-7d6696bd-c07f-4565-83e6-e3748f16ac33.jpg)
 ![JSP Servlets JDBC](https://user-images.githubusercontent.com/57790974/131817571-7e9e3169-aecc-4d01-a394-0824a59e9e38.jpg)
 ![Spring   Hibernate](https://user-images.githubusercontent.com/57790974/131817586-2606a05b-e29c-44f4-8696-d01e0cf10375.jpg)
-
+![Java ](https://user-images.githubusercontent.com/57790974/152101045-7bf6fe5d-42ec-4bf8-bd0d-ab361d381c1b.png)  
+![SQL](https://user-images.githubusercontent.com/57790974/152100942-c5193b7a-3e73-4713-a98f-1678f024be59.png)
 
 
 ![khan profile2](https://user-images.githubusercontent.com/57790974/131519455-f6138392-bc8f-40c0-855b-acbf3fb25da6.jpg)
