@@ -2,7 +2,7 @@ I'm a Java developer. I found my passion in programming it became my life it's c
 
 
 
-# My Interest in Java
+# My Interest in Java 
 
 Server-side programming with web development: Spring, Spring Boot, REST API, JUnit and things that go with it: Mockito, Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, OKTA, HTML, CSS, JavaScript, TypeScript, AWS, Git. All these wonderful and useful aspects of programming are included in my projects.
 
