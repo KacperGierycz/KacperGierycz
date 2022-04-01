@@ -110,7 +110,7 @@ When life became a quest for knowledge of Java programming it's exciting. The ch
  There are things that I found useful and helpful to keep me up and running smoothly and relaxed: learning practices mainly Pomodoro technique:), Tony Buzan's Mind Maps and thoughts practices mnemonics, walks in the park, friends, keyboard master, meditations, self hypnosis, juggling, guitar, funny things I love to laugh, sport lot of sport and last but not least books.
  
 #
-Coding calms me down.
+<!--Coding calms me down.-->
  
 #
 
