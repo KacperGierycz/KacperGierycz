@@ -96,6 +96,25 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
 <details>	
   <summary><b>🍒  The Conclusion </b></summary> 
   <br />
+  
+  <br>
+<details>	
+  <summary><b>🎓 My Blog </b></summary> 
+  
+  Recently I went thoro  technical interviews and from them I gain lot's of knowleage. The bigest part is My gratitude toward requruiters that give me the chance to check my knowleage and enchance it while speking with masters porgrammers. TAB
+  Mostly programmers I met are very strict persons with their mainds focuse on being precise and fast the fast when concept is well known you are fast. 
+  The knowleage that is being tested is mostly the commputer concepts mostly the teory like SOLID, Agile, Clean Code, Object Oriented Programming, Test Driven Development, Data Structures, Multitreading, Streams, Spring Framework, Design Patterns abstraction this is so common question that today I decide to memorise this beautifull sentence "In essense the abstraction is preserving the information that is releveant in a given context, and forgeting information that is irrelevant in that context" LINE BREAK - John V. Guttag LINE BREAK
+  Well according to this I'm on a quest to get into this concepts and understand them at least to the level of my current undertanding of computer science. 
+  The things that I have to press the most are Clan Code, Agile, SOLID 
+  The SOLID there is a L and D that I have to leave for leater But S single resposibility, O open for extension close for modification, I interface segregation
+  Clean Code now general rules 
+  Let Your code be easy to READ and understand
+  make introduction give general concepts and let it introduce what will going to happend
+  Use descriptive names for methods and classes
+  
+  
+  
+  <br />
 
   I learn a lot and I'm proud of it.
   <br>
