@@ -97,7 +97,18 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   <summary><b>🍒  The Conclusion </b></summary> 
   <br />
   
+
+
+  I learn a lot and I'm proud of it.
   <br>
+  The way I've chosen needed passion, persistence, iron will to overcome obstacles, intelligence, creativity, curiosity a positive attitude, social and a sense of humor to keep it all together.
+  <br>
+  There is still a lot to learn and create ahead this is what I'm waiting for. 
+  
+  </details>
+  
+  
+    <br>
 <details>	
   <summary><b>🎓 My Blog </b></summary> 
   
@@ -115,14 +126,8 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   
   
   <br />
-
-  I learn a lot and I'm proud of it.
-  <br>
-  The way I've chosen needed passion, persistence, iron will to overcome obstacles, intelligence, creativity, curiosity a positive attitude, social and a sense of humor to keep it all together.
-  <br>
-  There is still a lot to learn and create ahead this is what I'm waiting for. 
+    </details>
   
-  </details>
 
 # Besides programming
 
