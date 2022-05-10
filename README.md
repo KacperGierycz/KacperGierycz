@@ -108,15 +108,15 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   </details>
   
   
-    
+  <br>  
 <details>	
-  <summary><b>🎓 My Blog </b></summary> 
+  <summary><b>📘 My Blog </b></summary> 
+  <br>
   
-  Saturday 07.05.22 I started Blog
+**  Saturday 07.05.22 I started Blog
   The grammar, interpunction and formatting will come later I have to start it.
-  Recently I went thoro  technical interviews and from them I gain lot's of knowleage. The bigest part is My gratitude toward requruiters that give me the chance to check my knowleage and enchance it while speking with masters porgrammers. TAB
-  Mostly programmers I met are very strict persons with their mainds focuse on being precise and fast the fast when concept is well known you are fast. 
-  The knowleage that is being tested is mostly the commputer concepts mostly the teory like SOLID, Agile, Clean Code, Object Oriented Programming, Test Driven Development, Data Structures, Multitreading, Streams, Spring Framework, Design Patterns abstraction this is so common question that today I decide to memorise this beautifull sentence "In essense the abstraction is preserving the information that is releveant in a given context, and forgeting information that is irrelevant in that context" LINE BREAK - John V. Guttag LINE BREAK
+  Recently I went thoro  technical interviews and from them I gain lot's of knowleage. The bigest part is My gratitude toward requruiters that give me the chance to check my knowleage and enchance it while speking with masters porgrammers.<br>
+  Mostly programmers I met are very strict persons with their mainds focuse on being precise and fast the speed of thinking about something comes when concept is well known. The knowleage that is being tested is mostly the commputer concepts the teory: 1. SOLID 2. Agile, Clean Code, Object Oriented Programming, Test Driven Development, Data Structures, Multitreading, Streams, Spring Framework, Design Patterns, SQL, JAVA fundamentals, abstraction this is so common question that today I decide to memorise this beautifull sentence "In essense the abstraction is preserving the information that is releveant in a given context, and forgeting information that is irrelevant in that context" LINE BREAK - John V. Guttag LINE BREAK
   Well according to this I'm on a quest to get into this concepts and understand them at least to the level of my current undertanding of computer science. 
   The things that I have to press the most are Clan Code, Agile, SOLID 
   The SOLID there is a L and D that I have to leave for leater But S single resposibility, O open for extension close for modification, I interface segregation
@@ -140,7 +140,7 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   10.05.22
   I did't decide what form should I write the standard calendar like or format and modify text and material with advance with knoleage I think both would be fine I like the jurnal like style.
   Well to the actual progress I made one big one in the matter of learning by itself regarding to fast typing practice. I was stuck for some time with progres trying to type as fast I can possible, but once whe tired of amouts of mistakes decided to go with slower but more precise and wiht whis came huge improvement in accuraccy, and little to no lose in speed what was a shock and even when I was thinking that I'm typing slower actualy I keep the same speed like when typing as fast as possible. Well the conclusion is fcusing on corectnes makes things faseter without knowing it and the time is distorted somehow I suspect that when you are tyrying to type accurate you are thinking faster and this may by the cause. I will keep this way becouse the progres is dayily now and looks it's a way to go. Well best essence is harder is not beter then smarter:)lol
-  
+ I'm on how to write basic git formating  
   
   
   <br />
