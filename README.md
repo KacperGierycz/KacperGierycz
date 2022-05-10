@@ -129,31 +129,32 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   10. Design Patterns
   11. SQL
   12. JAVA fundamentals
-   Abstraction this is so common question I decide to memorise this beautifull sentence <br> * *"In essense the abstraction is preserving the information that is releveant in a given context, and forgeting information that is irrelevant in that context"* * <br> - John V. Guttag <br>
+  <br>
+   Abstraction this is so common question I decide to memorise this beautifull sentence <br> *"In essense the abstraction is preserving the information that is   releveant in a given context, and forgeting information that is irrelevant in that context"* <br> - John V. Guttag <br><br>
   Well according to this I'm on a quest to get into this concepts and understand them at least to the level of my current undertanding of computer science. 
-  The things that I have to press the most are Clan Code, Agile, SOLID 
+  The things that I have to press the most are Clean Code, Agile, SOLID 
   The SOLID there is a L and D that I have to leave for leater But S single resposibility, O open for extension close for modification, I interface segregation
   Clean Code now general rules: 
   Let Your code be easy to READ and understand
   make introduction give general concepts and let it introduce what will going to happend
   Use descriptive names for methods and classes
-  Iv method is to long try to extract part into another mthod
+  If method is to long try to extract part into another method
   there is much more to this 
   
   Agile
-  This has a greate name everyon would like this name being theirs lol
-  The values are quite fine they are:
-  Individaual and interactinos over process and tools
-  Working software over comperhensive documetation
-  Customer collaboration over contract negotiation
-  Responding to change over following the plan
+  This has a greate name everyon would like this name being theirs quality lol
+  The values are quite fine they are:<br>
+  - Individauals and interactinos over process and tools
+  - Working software over comperhensive documentation
+  - Customer collaboration over contract negotiation
+  - Responding to change over following the plan
   
   Yes this sound great
   
   10.05.22
-  I did't decide what form should I write the standard calendar like or format and modify text and material with advance with knoleage I think both would be fine I like the jurnal like style.
+  I did't decide what form should I write the standard diary jurnal or modify text and material with advance with knoleage I think both would be fine I like the jurnal like style.
   Well to the actual progress I made one big one in the matter of learning by itself regarding to fast typing practice. I was stuck for some time with progres trying to type as fast I can possible, but once whe tired of amouts of mistakes decided to go with slower but more precise and wiht whis came huge improvement in accuraccy, and little to no lose in speed what was a shock and even when I was thinking that I'm typing slower actualy I keep the same speed like when typing as fast as possible. Well the conclusion is fcusing on corectnes makes things faseter without knowing it and the time is distorted somehow I suspect that when you are tyrying to type accurate you are thinking faster and this may by the cause. I will keep this way becouse the progres is dayily now and looks it's a way to go. Well best essence is harder is not beter then smarter:)lol
- I'm on how to write basic git formating  
+ I'm on how to write (basic git formating)(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links) text looks beter after this next one grammar how to connect grammarly to gitreadmy.
   
   
   <br />
