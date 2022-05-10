@@ -137,6 +137,10 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   
   Yes this sound great
   
+  10.05.22
+  I did't decide what form should I write the standard calendar like or format and modify text and material with advance with knoleage I think both would be fine I like the jurnal like style.
+  Well to the actual progress I made one big one in the matter of learning by itself regarding to fast typing practice. I was stuck for some time with progres trying to type as fast I can possible, but once whe tired of amouts of mistakes decided to go with slower but more precise and wiht whis came huge improvement in accuraccy, and little to no lose in speed what was a shock and even when I was thinking that I'm typing slower actualy I keep the same speed like when typing as fast as possible. Well the conclusion is fcusing on corectnes makes things faseter without knowing it and the time is distorted somehow I suspect that when you are tyrying to type accurate you are thinking faster and this may by the cause. I will keep this way becouse the progres is dayily now and looks it's a way to go.
+  
   
   
   <br />
