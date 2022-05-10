@@ -113,10 +113,14 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   <summary><b>📘 My Blog </b></summary> 
   <br>
   
-**  Saturday 07.05.22 I started Blog ** <br>
+**Saturday 07.05.22 I started Blog** <br>
   The grammar, interpunction and formatting will come later I have to start it.
   Recently I went thoro  technical interviews and from them I gain lot's of knowleage. The bigest part is My gratitude toward requruiters that give me the chance to check my knowleage and enchance it while speking with masters porgrammers.<br>
-  Mostly programmers I met are very strict persons with their mainds focuse on being precise and fast the speed of thinking about something comes when concept is well known. The knowleage that is being tested is mostly the commputer concepts the teory: 1. SOLID 2. Agile, Clean Code, Object Oriented Programming, Test Driven Development, Data Structures, Multitreading, Streams, Spring Framework, Design Patterns, SQL, JAVA fundamentals, abstraction this is so common question that today I decide to memorise this beautifull sentence "In essense the abstraction is preserving the information that is releveant in a given context, and forgeting information that is irrelevant in that context" LINE BREAK - John V. Guttag LINE BREAK
+  Mostly programmers I met are very strict persons with their mainds focuse on being precise and fast the speed of thinking about something comes when concept is well known. The knowleage that is being tested is mostly the commputer concepts the teory: 
+  1. SOLID
+  2. Agile
+  3. Clean Code
+  Object Oriented Programming, Test Driven Development, Data Structures, Multitreading, Streams, Spring Framework, Design Patterns, SQL, JAVA fundamentals, abstraction this is so common question that today I decide to memorise this beautifull sentence "In essense the abstraction is preserving the information that is releveant in a given context, and forgeting information that is irrelevant in that context" LINE BREAK - John V. Guttag LINE BREAK
   Well according to this I'm on a quest to get into this concepts and understand them at least to the level of my current undertanding of computer science. 
   The things that I have to press the most are Clan Code, Agile, SOLID 
   The SOLID there is a L and D that I have to leave for leater But S single resposibility, O open for extension close for modification, I interface segregation
