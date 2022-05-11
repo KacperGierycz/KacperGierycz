@@ -129,6 +129,9 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   10. Design Patterns
   11. SQL
   12. JAVA fundamentals
+  13. CI/CD pipeline Unknown
+  14. flyway/liquidbase Unknown
+  
   <br>
    Abstraction this is so common question I decide to memorise this beautifull sentence <br> *"In essense the abstraction is preserving the information that is   releveant in a given context, and forgeting information that is irrelevant in that context"* <br> - John V. Guttag <br><br>
   Well according to this I'm on a quest to get into this concepts and understand them at least to the level of my current undertanding of computer science. 
@@ -156,6 +159,8 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   Well to the actual progress I made one big one in the matter of learning by itself regarding to fast typing practice. I was stuck for some time with progres trying to type as fast I can possible, but once whe tired of amouts of mistakes decided to go with slower but more precise and wiht whis came huge improvement in accuraccy, and little to no lose in speed what was a shock and even when I was thinking that I'm typing slower actualy I keep the same speed like when typing as fast as possible. Well the conclusion is fcusing on corectnes makes things faseter without knowing it and the time is distorted somehow I suspect that when you are tyrying to type accurate you are thinking faster and this may by the cause. I will keep this way becouse the progres is dayily now and looks it's a way to go. Well best essence is harder is not beter then smarter:)lol
  I'm on how to write [basic git formating](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links) text looks beter after this next one grammar how to connect grammarly to gitreadmy.
   
+  11.05.22
+  Yesterday I had a greate conversation witha developer and got fev topics to add to the list.  He mentiond one courious thing that after some time programming can grow a little boring and there are things that can add to craft like contact with client it's interesting. 
   
   <br />
     </details>
