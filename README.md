@@ -162,6 +162,15 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   11.05.22
   Yesterday I had a great conversation with a developer and got a few topics to add to the list.  He mentioned one curious thing that after some time programming can grow a little boring and there are things that can add to the craft like contact with clients its interests. 
   
+  12.05.22
+  Another day another oportunity 
+  I find out that the more I speak the more I get use to speaking with developers and geting in theig thinking process and like them and it's a mutual process.
+  But to the main technicall stuff the SQL zoo I greatly consider the best place to learn SQL and it thought me well.
+  I had to make a revisit to https://learngitbranching.js.org to get to:<br>
+  rebase -i C1 C3 copying the C1 C2 C3 from head location to new brach or rearange them
+  checkout C3  moving with main or into branches
+  branch -f foo C3 moves foo to the C3 commit
+  
   <br />
     </details>
   
