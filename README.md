@@ -170,6 +170,8 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   rebase -i C1 C3 copying the C1 C2 C3 from head location to new brach or rearange them
   checkout C3  moving with main or into branches
   branch -f foo C3 moves foo to the C3 commit
+  <br>
+  need to find out how to move thro hash maps using streams!!
   
   <br />
     </details>
