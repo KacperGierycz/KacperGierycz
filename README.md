@@ -114,9 +114,9 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   <br>
   
 **Saturday 07.05.22 I started Blog** <br>
-  The grammar, interpunction and formatting will come later I have to start it.
-  Recently I went thoro  technical interviews and from them I gain lot's of knowleage. The bigest part is My gratitude toward requruiters that give me the chance to check my knowleage and enchance it while speking with masters porgrammers.<br>
-  Mostly programmers I met are very strict persons with their mainds focuse on being precise and fast the speed of thinking about something comes when concept is well known. The knowleage that is being tested is mostly the commputer concepts the teory: 
+
+  I recently went thoro technical interviews and gained lots of knowledge from them. The biggest part is My gratitude toward recruiters that give me the chance to check my knowledge and enhance it while speaking with master programmers.<br>
+  Most programmers I met are very strict persons with their minds focused on being precise and fast the speed of thinking about something comes when the concept is well known. The knowledge that is being tested is mostly the computer concepts the theory: 
   1. SOLID
   2. Agile
   3. Clean Code
@@ -133,34 +133,34 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   14. flyway/liquidbase Unknown
   
   <br>
-   Abstraction this is so common question I decide to memorise this beautifull sentence <br> *"In essense the abstraction is preserving the information that is   releveant in a given context, and forgeting information that is irrelevant in that context"* <br> - John V. Guttag <br><br>
-  Well according to this I'm on a quest to get into this concepts and understand them at least to the level of my current undertanding of computer science. 
-  The things that I have to press the most are Clean Code, Agile, SOLID 
-  The SOLID there is a L and D that I have to leave for leater But S single resposibility, O open for extension close for modification, I interface segregation
-  Clean Code now general rules: 
+   Abstraction this is so common question I decide to memorize this beautiful sentence <br> *"In essence, the abstraction is preserving the information that is   relevant in a given context, and forgetting information that is irrelevant in that context"* <br> - John V. Guttag <br><br>
+  Well according to this I'm on a quest to get into these concepts and understand them at least to the level of my current understanding of computer science.
+  The things that I have to press the most are Clean Code, Agile, SOLID
+  The SOLID there is an L and D that I have to leave for later But S single responsibility, O open for extension close for modification, I interface segregation
+  Clean Code now general rules:
   Let Your code be easy to READ and understand
-  make introduction give general concepts and let it introduce what will going to happend
+  make an introduction give general concepts and let it introduce what will go to happen
   Use descriptive names for methods and classes
-  If method is to long try to extract part into another method
+  If the method is too long try to extract part into another method
   there is much more to this 
   
   Agile
-  This has a greate name everyon would like this name being theirs quality lol
+  This has a great name everyone would like this name being their quality lol
   The values are quite fine they are:<br>
-  - Individauals and interactinos over process and tools
-  - Working software over comperhensive documentation
+  - Individuals and interactions over process and tools
+  - Working software over comprehensive documentation
   - Customer collaboration over contract negotiation
-  - Responding to change over following the plan
+  - Responding to change by following the plan
+ 
+  Yes this sounds great
   
-  Yes this sound great
-  
-  10.05.22
-  I did't decide what form should I write the standard diary jurnal or modify text and material with advance with knoleage I think both would be fine I like the jurnal like style.
-  Well to the actual progress I made one big one in the matter of learning by itself regarding to fast typing practice. I was stuck for some time with progres trying to type as fast I can possible, but once whe tired of amouts of mistakes decided to go with slower but more precise and wiht whis came huge improvement in accuraccy, and little to no lose in speed what was a shock and even when I was thinking that I'm typing slower actualy I keep the same speed like when typing as fast as possible. Well the conclusion is fcusing on corectnes makes things faseter without knowing it and the time is distorted somehow I suspect that when you are tyrying to type accurate you are thinking faster and this may by the cause. I will keep this way becouse the progres is dayily now and looks it's a way to go. Well best essence is harder is not beter then smarter:)lol
- I'm on how to write [basic git formating](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links) text looks beter after this next one grammar how to connect grammarly to gitreadmy.
-  
-  11.05.22
-  Yesterday I had a greate conversation witha developer and got fev topics to add to the list.  He mentiond one courious thing that after some time programming can grow a little boring and there are things that can add to craft like contact with client it's interesting. 
+10.05.22
+  I didn't decide what form should I write the standard diary journal or modify text and material with advanced knowledge I think both would be fine I like the jurnal-like style.
+  Well to the actual progress I made one big one in the matter of learning by itself regarding fast typing practice. I was stuck for some time with progress trying to type as fast I can possible, but once I was tired of amounts of mistakes decided to go with slower but more precise, and with this came a huge improvement in accuracy, and little to no loss in speed what was a shock and even when I was thinking that I'm typing slower actually I keep the same speed like when typing as fast as possible. Well the conclusion is focusing on correctness makes things faster without knowing it and the time is distorted somehow I suspect that when you are trying to type accurately you are thinking faster and this may be the cause. I will keep this way because the progress is daily now and looks like it's a way to go. Well, the best essence is harder is not better than smarter:)lol
+ I'm on how to write [basic git formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links) text looks better after this next one grammar how to connect Grammarly to gitreadmy.
+  
+  11.05.22
+  Yesterday I had a great conversation with a developer and got a few topics to add to the list.  He mentioned one curious thing that after some time programming can grow a little boring and there are things that can add to the craft like contact with clients its interests. 
   
   <br />
     </details>
