@@ -178,6 +178,16 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   24.05.22
   After a week long holidays I'm back in programming there is some thinkg that i want to write about last day of recruitment but about it later here now the yesterday. Yesterday was first day after a holidays the first holidays after 3 long years it's almost hard to figure out how long this period is 3 years of constatnt learning passed like one or even less and there is still more to learn it's the best part. During last technical interview i encouter the best understanding about a way I can go into after all this algorithms and math i can go to neural networks, the graphs was my favorite part of all and this seems to be a natural extension, first ofcourse the Samsung inducion:) and all the stuf with kotlin multithreading and static analyzis and clean code and all of this. Yest It will be a great adventure cant wait. But to the first day it was hard to swich to working hours and to get into programing but the progres have been made and I see the benefit of fresh mind I setup InteliJ IDEA git and started with multithreading, streams lambdas today books came had to go for them. I'm exited.
   
+  
+  30.05.22
+  Have less and less time the more I practice for Samsung there is more to notice but now have to practice then I note only Topics.
+  Concurency I just started but find out have to get this it's 10 h to get a greter understanding
+  Streams well understand done some examples and thing is clear
+  Optional just Optional
+  Kotlin on jetBrains great platforn there is a lot I'm in 1/5 
+  sonar just started
+  
+  
     </details>
   
 
