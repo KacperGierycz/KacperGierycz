@@ -4,7 +4,7 @@ I'm a Java developer. I found my passion in programming it became my life it's c
 
 # My Interest in Java 
 
-Server-side programming with web development: Spring, Spring Boot, REST API, JUnit and things that go with it: Mockito, Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, AWS, Git. All these wonderful and useful aspects of programming are included in my projects.
+Software Developer with roots in Java: Spring, Spring Boot, REST API, JUnit and things that go with it: Mockito, Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, AWS, Git. All these wonderful and useful aspects of programming are included in my projects.
 
 My personal favorites are algorithms and programmatic challenges on [HackerRankProfile](https://www.hackerrank.com/kacpergierycz)
 
@@ -17,7 +17,7 @@ My personal favorites are algorithms and programmatic challenges on [HackerRankP
   <br />
 The beginning
   <br>
-I was a sales guy for years and wanted to get into a software, so I learn a little about programming. After a while, I found out that this stuff is engaging, solving the exercises was rewarding proportionally to difficulty. The library was my learning ground, where I found friends who learn different things, one was studying JavaScript other UML. Discussions about programming and the mental process of learning were thrilling. I got sucked into learning curiosity, was winning I wanted more and more.
+I was a sales guy for years. When I was seling It services I got the idea into a software, so I started to learn a little about programming. After a while, I found out that this stuff is engaging, solving the exercises was rewarding proportionally to difficulty. The library was my learning ground, where I found friends who learn different things, one was studying JavaScript other UML. Discussions about programming and the mental process of learning were thrilling. I got sucked into learning curiosity, was winning I wanted more and more.
   <br>
   
 The first steps I took was with Coursera courses: learning how to learn, [computer science fundamentals & Java basics,](https://coursera.org/share/58d86a3f9fdfe25e90012072d2cb758b), then [more advanced Java](https://user-images.githubusercontent.com/57790974/131525387-5df6ca4d-8db5-44ea-91b6-2d042a48689d.jpg), and finally [Data Structures and Algorithms](https://user-images.githubusercontent.com/57790974/131529228-db168e4a-a67a-4ae8-a625-62750bbac3e9.jpg) in previous courses material was hard but in a noobie friendly way, here stuff begins to be hard just like it should be, peers have only 10% success rate for passing. Math was an issue the precalculus level needed at least. I asked a friend mathematician who was giving lessosns in the library;
