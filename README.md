@@ -190,6 +190,10 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   06.06.22
   The Induction is done it hapend so fast now first week in Samsung the work culture is the bigest thing The Samsung have to offer people are helpfull and easy going focuse on work of course but open to discussions. I had a greate guy for a part leader the guy that is not hesitating in correting me if there is something worong and I'm gretfull for this insight the learning is double this way. The amout of stuff that is to setup is menagable have to be carefull with helpfullnes of guys becouse the best lerning is a way thro fire of understanding and I have to train concepts and recall the stuff. Yes soon the programming will finaly be upon me and I will swimm deep in Java to program the program I'm just little afraid that I will sweem so deep it would be hard to get in to the surface again but have to go finally I'm walking my path.
   
+  21.02.23
+  Long time passed since I wrote someting last. I am doing revision of my knowleage of Java, Spring, SQL. Now grinding java on Oracle docs and I found them very good like a source of material quite surpising there was a time I consider it a waste of time. Now its place with best knowleage and examples tried to find the Spring in simmilar fasion but well I need to explre some more in spring.io.
+  Well java basics JVM, JRE, JDK, variables, classes  
+  
     </details>
   
 
