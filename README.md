@@ -196,6 +196,7 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   
   23.02.23 
   After some time in Oracle Java documentation I have realized that there is no better place to learn Java all others are just trying to reinvent the weel and in the process some of them are corupting the subject. After this i know that I'm going to stay on Oracle for some time week is a realistic estimation. Some progres has been made in Spring REST learning mostly some annotations for REST but still need some more. 
+  I realize that I have to redo my CV in complitly different way more specialized in the way of things I'm relearning now. Core Java, Spring, SQL and only this.
   
     </details>
   
