@@ -194,6 +194,9 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   Long time passed since I wrote someting last. I am doing revision of my knowleage of Java, Spring, SQL. Now grinding java on Oracle docs and I found them very good like a source of material quite surpising there was a time I consider it a waste of time. Now its place with best knowleage and examples tried to find the Spring in simmilar fasion but well I need to explre some more in spring.io.
   Well java basics JVM, JRE, JDK, variables, classes  
   
+  23.02.23 
+  After some time in Oracle Java documentation I have realized that there is no better place to learn Java all others are just trying to reinvent the weel and in the process some of them are corupting the subject. After this i know that I'm going to stay on Oracle for some time week is a realistic estimation. Some progres has been made in Spring REST learning mostly some annotations for REST but still need some more. 
+  
     </details>
   
 
