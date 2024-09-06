@@ -1,10 +1,10 @@
-I'm a Java developer. I found my passion in programming it became my life it's challenging and wonderful. Grit, perservirence and focus are my way. 
+I am a Java developer who has found a true passion in programming. It has become my life, presenting both challenges and wonders. Grit, perseverance, and focus are my guiding principles.
 
 
 
 # My Interest in Java 
 
-Software Developer with roots in Java: Spring, Spring Boot, REST API, JUnit and things that go with it: Mockito, Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, AWS, Git. All these wonderful and useful aspects of programming are included in my projects.
+As a Software Developer with a strong foundation in Java, I specialize in technologies such as Spring, Spring Boot, REST APIs, and JUnit. My expertise extends to related tools and frameworks, including Mockito, Hibernate, MySQL, JDBC, MVC, JSP, Thymeleaf, Bootstrap, Jenkins, Tomcat, Angular, AWS, and Git. These powerful and versatile aspects of programming are integral to my projects.
 
 My personal favorites are algorithms and programmatic challenges on [HackerRankProfile](https://www.hackerrank.com/kacpergierycz)
 
@@ -17,7 +17,9 @@ My personal favorites are algorithms and programmatic challenges on [HackerRankP
   <br />
 The beginning
   <br>
-I was a sales guy for years. While I was selling It services I got the idea to go into a software business, so I started to learn a little about programming. After a while, I found out that this stuff is engaging, solving the exercises was rewarding proportionally to difficulty. The library was my learning ground, where I found friends who learn different things, one was studying JavaScript other UML. Discussions about programming and the mental process of learning were thrilling. I got sucked into learning curiosity, was winning I wanted more and more.
+I spent years working in sales. While selling IT services, I got the idea to venture into the software business, which led me to start learning a bit about programming. Over time, I discovered that programming was incredibly engaging; solving exercises was rewarding, especially as they increased in difficulty.
+
+The library became my learning ground, where I met friends who were studying various subjects—one was focused on JavaScript, another on UML. Our discussions about programming and the cognitive processes involved in learning were thrilling. I became deeply curious and found myself wanting to learn more and more.
   <br>
   
 The first steps I took was with Coursera courses: learning how to learn, [computer science fundamentals & Java basics,](https://coursera.org/share/58d86a3f9fdfe25e90012072d2cb758b), then [more advanced Java](https://user-images.githubusercontent.com/57790974/131525387-5df6ca4d-8db5-44ea-91b6-2d042a48689d.jpg), and finally [Data Structures and Algorithms](https://user-images.githubusercontent.com/57790974/131529228-db168e4a-a67a-4ae8-a625-62750bbac3e9.jpg) in previous courses material was hard but in a noobie friendly way, here stuff begins to be hard just like it should be, peers have only 10% success rate for passing. Math was an issue the precalculus level needed at least. I asked a friend mathematician who was giving lessosns in the library;
@@ -115,8 +117,9 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   
 **Saturday 07.05.22 I started Blog** <br>
 
-  I recently went thoro technical interviews and gained lots of knowledge from them. The biggest part is My gratitude toward recruiters that give me the chance to check my knowledge and enhance it while speaking with master programmers.<br>
-  Most programmers I met are very strict persons with their minds focused on being precise and fast the speed of thinking about something comes when the concept is well known. The knowledge that is being tested is mostly the computer concepts the theory: 
+  I recently went through several technical interviews and gained a lot of knowledge from them. I am especially grateful to the recruiters who gave me the opportunity to test and enhance my knowledge while speaking with expert programmers.
+
+Most programmers I met are very precise and focused individuals. Their speed of thinking improves significantly when they are well-acquainted with a concept. The knowledge being tested in these interviews is primarily based on computer science concepts and theory.
   1. SOLID
   2. Agile
   3. Clean Code
@@ -133,16 +136,21 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   14. flyway/liquidbase Unknown
   
   <br>
-   Abstraction this is so common question I decide to memorize this beautiful sentence <br> *"In essence, the abstraction is preserving the information that is   relevant in a given context, and forgetting information that is irrelevant in that context"* <br> - John V. Guttag <br><br>
-  Well according to this I'm on a quest to get into these concepts and understand them at least to the level of my current understanding of computer science.
-  The things that I have to press the most are Clean Code, Agile, SOLID
-  The SOLID there is an L and D that I have to leave for later But S single responsibility, O open for extension close for modification, I interface segregation
-  Clean Code now general rules:
-  Let Your code be easy to READ and understand
-  make an introduction give general concepts and let it introduce what will go to happen
-  Use descriptive names for methods and classes
-  If the method is too long try to extract part into another method
-  there is much more to this 
+   Abstraction is a common question, so I decided to memorize this beautiful sentence: <br> *"In essence, the abstraction is preserving the information that is   relevant in a given context, and forgetting information that is irrelevant in that context"* <br> - John V. Guttag <br><br>
+  Inspired by this, I am on a quest to delve into these concepts and understand them at least to the level of my current knowledge in computer science. The areas I need to focus on the most are Clean Code, Agile, and SOLID principles.
+
+Regarding SOLID, I will leave the Liskov Substitution Principle (L) and Dependency Inversion Principle (D) for later. For now, I am concentrating on:
+
+S: Single Responsibility Principle
+O: Open/Closed Principle
+I: Interface Segregation Principle
+For Clean Code, here are some general rules:
+
+Ensure your code is easy to read and understand.
+Provide an introduction with general concepts to set the stage for what follows.
+Use descriptive names for methods and classes.
+If a method is too long, try to extract parts into separate methods.
+There is much more to this, but these are the foundational guidelines I am focusing on.
   
   Agile
   This has a great name everyone would like this name being their quality lol
@@ -155,12 +163,12 @@ Done [Git Branching](https://learngitbranching.js.org/?locale=en_US) :)
   Yes this sounds great
   
 10.05.22
-  I didn't decide what form should I write the standard diary journal or modify text and material with advanced knowledge I think both would be fine I like the jurnal-like style.
-  Well to the actual progress I made one big one in the matter of learning by itself regarding fast typing practice. I was stuck for some time with progress trying to type as fast I can possible, but once I was tired of amounts of mistakes decided to go with slower but more precise, and with this came a huge improvement in accuracy, and little to no loss in speed what was a shock and even when I was thinking that I'm typing slower actually I keep the same speed like when typing as fast as possible. Well the conclusion is focusing on correctness makes things faster without knowing it and the time is distorted somehow I suspect that when you are trying to type accurately you are thinking faster and this may be the cause. I will keep this way because the progress is daily now and looks like it's a way to go. Well, the best essence is harder is not better than smarter:)lol
- I'm on how to write [basic git formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links) text looks better after this next one grammar how to connect Grammarly to gitreadmy.
+  I haven’t decided whether to write in a standard diary format or to modify the text with advanced knowledge. I think both approaches would be fine, but I prefer the journal-like style.
+
+Regarding my progress, I’ve made a significant breakthrough in my typing practice. I was stuck for a while, trying to type as fast as possible, but I kept making numerous mistakes. Eventually, I decided to slow down and focus on precision. This change led to a huge improvement in accuracy with little to no loss in speed, which was surprising. Even when I felt like I was typing slower, I maintained the same speed as before. The conclusion is that focusing on correctness actually makes things faster without realizing it. I suspect that trying to type accurately speeds up your thinking process, which might be the cause. I will continue this approach because my progress is now consistent, and it seems to be the right way to go. The essence is that working smarter is better than working harder! [basic git formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links) .
   
   11.05.22
-  Yesterday I had a great conversation with a developer and got a few topics to add to the list.  He mentioned one curious thing that after some time programming can grow a little boring and there are things that can add to the craft like contact with clients its interests. 
+  Yesterday, I had a great conversation with a developer and added a few topics to my list. He mentioned an interesting point: after some time, programming can become a bit monotonous. However, there are ways to keep it engaging, such as interacting with clients and exploring their interests. 
   
   12.05.22
   Another day another oportunity 
