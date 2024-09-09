@@ -1,12 +1,17 @@
-I am a Scrum Master and today I am starting the Scrum Blog:
+I am a Scrum Master and today 09.09.2024 I am starting the Scrum Blog:
 
-All of the Scrum processes are amazing, but what excites me the most is people collaboration. I thrive on social interaction and am an interpersonal collaborator, facilitator of meetings, and advocate for diversity. My greatest asset is my ability to lead people and inspire them with positive ideas. The principles of Scrum resonate with me deeply and have guided me through the process of acquiring knowledge in Java programming. Understanding Scrum came so naturally to me that I was surprised by how easily it all clicked.
+All of the Scrum processes are amazing, but what excites me the most is people collaboration. I thrive on social interaction and am an interpersonal collaborator, facilitator of meetings, and advocate for diversity. My greatest asset is my ability to lead people and inspire them with positive ideas. The principles of Scrum resonate with me deeply and have guided me through the process of acquiring knowledge in Java programming. Understanding Scrum came so naturally to me that I was surprised by how easily it all clicked...
 
 I am a Java developer who has found a true passion in programming. It has become my life, presenting both challenges and wonders. Grit, perseverance, and focus are my guiding principles.
 
-<h2 align="left" id="macropower-tech">Scrum Mastry</h2>
+<h2 align="left" id="macropower-tech">How I learn</h2>
 
-<summary><b>⚡  Experience</b></summary> 
+<br>
+<details>	
+  <summary><b>⚡  The beginning...story</b></summary> 
+  <br />
+The beginning
+  <br>
 
 All of the Scrum processes are amazing, but what excites me the most is people collaboration. I thrive on social interaction and am an interpersonal collaborator, facilitator of meetings, and advocate for diversity. My greatest asset is my ability to lead people and inspire them with positive ideas. The principles of Scrum resonate with me deeply and have guided me through the process of acquiring knowledge in Java programming. Understanding Scrum came so naturally to me that I was surprised by how easily it all clicked. <br>
 I am the spirit that embodies cooperation, inspiring innovation during calm times, and providing essential support and strength during the heavy storms of uncertainty. I welcome arguments and discussions, seeking the knowledge and sweetness of others’ opinions on the same topic. Discussions are environments that I find the most calming when diversity of thought emerges. <br>
