@@ -6,7 +6,7 @@ I am a Java developer who has found a true passion in programming. It has become
 
 <br>
 <details>	
-  <summary><b>✨  My Wall of Certificates </b></summary> 
+  <summary><b>✨  My Experience </b></summary> 
   <br />
 
 All of the Scrum processes are amazing, but what excites me the most is people collaboration. I thrive on social interaction and am an interpersonal collaborator, facilitator of meetings, and advocate for diversity. My greatest asset is my ability to lead people and inspire them with positive ideas. The principles of Scrum resonate with me deeply and have guided me through the process of acquiring knowledge in Java programming. Understanding Scrum came so naturally to me that I was surprised by how easily it all clicked. <br>
