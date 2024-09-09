@@ -4,14 +4,10 @@ All of the Scrum processes are amazing, but what excites me the most is people c
 
 I am a Java developer who has found a true passion in programming. It has become my life, presenting both challenges and wonders. Grit, perseverance, and focus are my guiding principles.
 
-<h2 align="left" id="macropower-tech">How I learn</h2>
-
 <br>
 <details>	
-  <summary><b>⚡  The beginning...story</b></summary> 
+  <summary><b>✨  My Wall of Certificates </b></summary> 
   <br />
-The beginning
-  <br>
 
 All of the Scrum processes are amazing, but what excites me the most is people collaboration. I thrive on social interaction and am an interpersonal collaborator, facilitator of meetings, and advocate for diversity. My greatest asset is my ability to lead people and inspire them with positive ideas. The principles of Scrum resonate with me deeply and have guided me through the process of acquiring knowledge in Java programming. Understanding Scrum came so naturally to me that I was surprised by how easily it all clicked. <br>
 I am the spirit that embodies cooperation, inspiring innovation during calm times, and providing essential support and strength during the heavy storms of uncertainty. I welcome arguments and discussions, seeking the knowledge and sweetness of others’ opinions on the same topic. Discussions are environments that I find the most calming when diversity of thought emerges. <br>
@@ -24,15 +20,11 @@ As a Software Developer with a strong foundation in Java, I specialize in techno
 
 My personal favorites are algorithms and programmatic challenges on [HackerRankProfile](https://www.hackerrank.com/kacpergierycz)
 
-
-<h2 align="left" id="macropower-tech">How I learn</h2>
-
 <br>
 <details>	
-  <summary><b>⚡  The beginning...story</b></summary> 
+  <summary><b>✨ My Experience </b></summary> 
   <br />
-The beginning
-  <br>
+  
 I spent years working in sales. While selling IT services, I got the idea to venture into the software business, which led me to start learning a bit about programming. Over time, I discovered that programming was incredibly engaging; solving exercises was rewarding, especially as they increased in difficulty.
 
 The library became my learning ground, where I met friends who were studying various subjects—one was focused on JavaScript, another on UML. Our discussions about programming and the cognitive processes involved in learning were thrilling. I became deeply curious and found myself wanting to learn more and more.
