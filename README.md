@@ -4,7 +4,12 @@ All of the Scrum processes are amazing, but what excites me the most is people c
 
 I am a Java developer who has found a true passion in programming. It has become my life, presenting both challenges and wonders. Grit, perseverance, and focus are my guiding principles.
 
+<h2 align="left" id="macropower-tech">Scrum Mastry</h2>
 
+All of the Scrum processes are amazing, but what excites me the most is people collaboration. I thrive on social interaction and am an interpersonal collaborator, facilitator of meetings, and advocate for diversity. My greatest asset is my ability to lead people and inspire them with positive ideas. The principles of Scrum resonate with me deeply and have guided me through the process of acquiring knowledge in Java programming. Understanding Scrum came so naturally to me that I was surprised by how easily it all clicked. 
+I am the spirit that embodies cooperation, inspiring innovation during calm times, and providing essential support and strength during the heavy storms of uncertainty. I welcome arguments and discussions, seeking the knowledge and sweetness of others’ opinions on the same topic. Discussions are environments that I find the most calming when diversity of thought emerges. 
+I seek situations where everyone has a chance to state their opinion on the matter. I listen attentively, allowing all arguments to be presented. After considering all viewpoints, we can draw conclusions. Sometimes, there are stark differences in opinion, and it is not always easy to determine the best possible option. Therefore, we need to trust that others are working in the best interest to achieve the goal, acknowledging that differences in opinions will exist. 
+Trust is built through collaboration and the display of values that are noble and worth pursuing. Sharing experiences is key to building understanding. We achieve this through storytelling, and sometimes we create our own stories when facing challenges together. In these moments, we start to believe that we can overcome any obstacle. 
 
 # My Interest in Java 
 
