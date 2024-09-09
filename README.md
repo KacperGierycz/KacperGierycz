@@ -2,10 +2,6 @@ I am a Scrum Master today I started the Scrum Blog:
 
 All of the Scrum processes are amazing, but what excites me the most is people collaboration. I thrive on social interaction and am an interpersonal collaborator, facilitator of meetings, and advocate for diversity. My greatest asset is my ability to lead people and inspire them with positive ideas. The principles of Scrum resonate with me deeply and have guided me through the process of acquiring knowledge in Java programming. Understanding Scrum came so naturally to me that I was surprised by how easily it all clicked...
 
-<br>
-<details>	
-  <summary><b>⚡  The beginning...story</b></summary> 
-  <br />
 
 I am a Java developer who has found a true passion in programming. It has become my life, presenting both challenges and wonders. Grit, perseverance, and focus are my guiding principles.
 
