@@ -3,6 +3,7 @@
 
 I’m an Agile professional with a knack for communication, an analytical mindset, and a talent for storytelling.
 
+<br>
 
 My journey in software development has been a source of inspiration, fueling my creativity and drive to explore new ideas. I believe that the best journeys are those we share, where collaboration and shared successes make every step meaningful.
 
@@ -16,10 +17,10 @@ At the heart of everything I do lies a passion for communication and a commitmen
 <br>
 <details>	
   <summary><b>✨ IT Marker Analysis 2025 Overview </b></summary> 
-
+\
 The global IT recruitment landscape in 2025 presents a mix of challenges and opportunities, influenced by technological advancements, economic shifts, and evolving workplace dynamics. Here's an overview:
 
-Global IT Recruitment Trends:
+** Global IT Recruitment Trends: **  
 
 Artificial Intelligence (AI) Integration: AI is increasingly being utilized to enhance the recruitment process, improving candidate sourcing, screening, and engagement. However, it's essential to manage AI implementation carefully to avoid potential biases and ensure a positive candidate experience. 
 KORN FERRY | ORGANIZATIONAL CONSULTING
