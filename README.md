@@ -20,6 +20,7 @@ At the heart of everything I do lies a passion for communication and a commitmen
 The global IT recruitment landscape in 2025 presents a mix of challenges and opportunities, influenced by technological advancements, economic shifts, and evolving workplace dynamics. Here's an overview:
 <br>
 <br>
+  
 **Global IT Recruitment Trends:**
 
 1. **Artificial Intelligence (AI) Integration:**
