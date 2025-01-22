@@ -79,13 +79,13 @@ Softwarehouses act as intermediaries, providing skilled teams or individual deve
 
 2. **Advantages for Companies:**
 
-  * Flexibility in scaling up or down based on project needs.
-  * Access to specialized talent for short-term requirements.
-  * Cost savings compared to hiring permanent staff in high-salary regions.
+   * Flexibility in scaling up or down based on project needs.
+   * Access to specialized talent for short-term requirements.
+   * Cost savings compared to hiring permanent staff in high-salary regions.
 3. **Challenges for Softwarehouses and Developers:**
-  * **Instability for Employees:** Developers often face uncertainty, moving between projects without long-term security or clear career progression.
-  * **Market Saturation:** When demand dips (e.g., during economic downturns), softwarehouses face significant challenges in maintaining their workforce.
-  * **Reputation Risks:** If softwarehouses flood the market with "rentable" developers, it can devalue the perceived worth of individual expertise.
+   * **Instability for Employees:** Developers often face uncertainty, moving between projects without long-term security or clear career progression.
+   * **Market Saturation:** When demand dips (e.g., during economic downturns), softwarehouses face significant challenges in maintaining their workforce.
+   * **Reputation Risks:** If softwarehouses flood the market with "rentable" developers, it can devalue the perceived worth of individual expertise.
 
 ### AI Industry’s Current Challenges:
 
