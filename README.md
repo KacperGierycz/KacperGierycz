@@ -41,13 +41,15 @@ VERITA HR
 
 However, this rapid growth presents challenges:
 
-Talent Shortage: The increasing demand for IT professionals may lead to a talent crunch, especially in specialized fields. The existing talent pool might struggle to meet the needs of both startups and multinational corporations operating in Poland. 
+* **Talent Shortage:**
+The increasing demand for IT professionals may lead to a talent crunch, especially in specialized fields. The existing talent pool might struggle to meet the needs of both startups and multinational corporations operating in Poland. 
 DEVSDATA
 
-Temporary Employment Trends: Approximately 63% of companies in Poland plan to hire temporary workers in the first quarter of 2025, a 12% increase from the same period in the previous year. This trend indicates a shift towards more flexible staffing solutions in response to market uncertainties. 
+* **Temporary Employment Trends:**
+Approximately 63% of companies in Poland plan to hire temporary workers in the first quarter of 2025, a 12% increase from the same period in the previous year. This trend indicates a shift towards more flexible staffing solutions in response to market uncertainties. 
 STAFFING INDUSTRY ANALYSTS
 
-Conclusion:
+**Conclusion:**
 
 The IT recruitment landscape in 2025 is shaped by technological integration, a focus on critical skills, and evolving work models. In Poland, while the IT sector is poised for substantial growth, addressing the potential talent shortage will be crucial. Companies may need to invest in training and development programs, explore international talent pools, and adapt to flexible employment arrangements to navigate these challenges effectively.
   
