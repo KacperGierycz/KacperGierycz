@@ -92,9 +92,9 @@ Softwarehouses act as intermediaries, providing skilled teams or individual deve
 1. **Economic Slowdown and Reduced Investment:**
 The last two years saw many companies scaling back AI projects due to:
 
-* Overestimation of AI's immediate ROI.
-* Rising operational costs and the global economic slowdown in 2023-2024.
-* Shifting priorities toward cost-saving measures rather than innovation.
+   * Overestimation of AI's immediate ROI.
+   * Rising operational costs and the global economic slowdown in 2023-2024.
+   * Shifting priorities toward cost-saving measures rather than innovation.
 2. **Over-Supply of Talent:**
 The rapid expansion of AI and IT education programs has led to an oversupply of entry-level talent. While senior and specialized roles remain in demand, the influx of junior candidates has created fierce competition for limited opportunities.
 
@@ -108,24 +108,24 @@ Global tensions, especially between major tech players (e.g., the US, China, and
 1. **Crisis in Software Development:**
 The crisis you mentioned aligns with global trends but has been particularly acute in Poland:
 
-  * Poland became a hub for outsourced IT work, making it highly sensitive to global market fluctuations.
-  * Companies in Poland rely heavily on projects from large, international firms. When these firms cut budgets, the local market suffers significantly.
+   * Poland became a hub for outsourced IT work, making it highly sensitive to global market fluctuations.
+   * Companies in Poland rely heavily on projects from large, international firms. When these firms cut budgets, the local market suffers significantly.
 2. **Oversaturation of Programmers:**
 With Poland producing a high number of IT graduates and attracting talent from neighboring countries, the supply of developers far outpaced demand during the downturn.
 
 3. **Signs of Recovery:**
 While the situation remains challenging, there are indicators of improvement:
 
-  * Some companies are cautiously restarting projects.
-  * New opportunities are emerging in niche areas like AI, cybersecurity, and cloud computing.
-  * The EU’s focus on digital transformation may lead to more funding and projects in the region.
+   * Some companies are cautiously restarting projects.
+   * New opportunities are emerging in niche areas like AI, cybersecurity, and cloud computing.
+   * The EU’s focus on digital transformation may lead to more funding and projects in the region.
 
 ### Hope for Improvement:
 The industry seems to be slowly recovering, but it will take time to stabilize. Several factors might contribute to the turnaround:
 
-* Renewed Investments: As global economies stabilize, companies may reinvest in digital transformation and AI.
-* Shift to Emerging Technologies: Areas like generative AI, quantum computing, and green tech are likely to drive new projects.
-* EU Support: Poland, as a member of the EU, might benefit from initiatives aimed at bolstering digital infrastructure and innovation.
+   * Renewed Investments: As global economies stabilize, companies may reinvest in digital transformation and AI.
+   * Shift to Emerging Technologies: Areas like generative AI, quantum computing, and green tech are likely to drive new projects.
+   * EU Support: Poland, as a member of the EU, might benefit from initiatives aimed at bolstering digital infrastructure and innovation.
 
 ### Final Thoughts on the Softwarehouse Model:
 While the model provides flexibility, it is inherently fragile. If softwarehouses don’t adapt—by focusing on value-added services, employee retention, or innovative business models—they risk exacerbating the instability in the IT labor market.
