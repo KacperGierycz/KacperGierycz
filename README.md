@@ -79,13 +79,13 @@ Softwarehouses act as intermediaries, providing skilled teams or individual deve
 
 2. **Advantages for Companies:**
 
-* Flexibility in scaling up or down based on project needs.
-* Access to specialized talent for short-term requirements.
-* Cost savings compared to hiring permanent staff in high-salary regions.
+  * Flexibility in scaling up or down based on project needs.
+  * Access to specialized talent for short-term requirements.
+  * Cost savings compared to hiring permanent staff in high-salary regions.
 3. **Challenges for Softwarehouses and Developers:**
-* **Instability for Employees:** Developers often face uncertainty, moving between projects without long-term security or clear career progression.
-* **Market Saturation:** When demand dips (e.g., during economic downturns), softwarehouses face significant challenges in maintaining their workforce.
-* **Reputation Risks:** If softwarehouses flood the market with "rentable" developers, it can devalue the perceived worth of individual expertise.
+  * **Instability for Employees:** Developers often face uncertainty, moving between projects without long-term security or clear career progression.
+  * **Market Saturation:** When demand dips (e.g., during economic downturns), softwarehouses face significant challenges in maintaining their workforce.
+  * **Reputation Risks:** If softwarehouses flood the market with "rentable" developers, it can devalue the perceived worth of individual expertise.
 
 ### AI Industry’s Current Challenges:
 
@@ -108,17 +108,17 @@ Global tensions, especially between major tech players (e.g., the US, China, and
 1. **Crisis in Software Development:**
 The crisis you mentioned aligns with global trends but has been particularly acute in Poland:
 
-* Poland became a hub for outsourced IT work, making it highly sensitive to global market fluctuations.
-* Companies in Poland rely heavily on projects from large, international firms. When these firms cut budgets, the local market suffers significantly.
+  * Poland became a hub for outsourced IT work, making it highly sensitive to global market fluctuations.
+  * Companies in Poland rely heavily on projects from large, international firms. When these firms cut budgets, the local market suffers significantly.
 2. **Oversaturation of Programmers:**
 With Poland producing a high number of IT graduates and attracting talent from neighboring countries, the supply of developers far outpaced demand during the downturn.
 
 3. **Signs of Recovery:**
 While the situation remains challenging, there are indicators of improvement:
 
-* Some companies are cautiously restarting projects.
-* New opportunities are emerging in niche areas like AI, cybersecurity, and cloud computing.
-* The EU’s focus on digital transformation may lead to more funding and projects in the region.
+  * Some companies are cautiously restarting projects.
+  * New opportunities are emerging in niche areas like AI, cybersecurity, and cloud computing.
+  * The EU’s focus on digital transformation may lead to more funding and projects in the region.
 
 ### Hope for Improvement:
 The industry seems to be slowly recovering, but it will take time to stabilize. Several factors might contribute to the turnaround:
