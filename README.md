@@ -12,6 +12,9 @@ Let’s connect, learn, and grow together as we explore new horizons!
 <br>
 <details>	
   <summary><b>✨ ...Experience </b></summary> 
+
+how does this expands
+  
   <br />
 
 
