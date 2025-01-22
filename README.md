@@ -35,7 +35,7 @@ The demand for remote and hybrid work arrangements remains strong. Companies are
 4. **Employee Advocacy and Experience:**
 Organizations are focusing on creating positive employee experiences and leveraging employee advocacy to attract and retain talent. A strong employer brand, supported by satisfied employees, is becoming a key differentiator.
 
-IT Recruitment in Poland:
+**IT Recruitment in Poland:**
 
 Poland's IT sector is experiencing significant growth, with the market size estimated at $28.68 billion in 2024 and projected to reach $46.51 billion by 2029, growing at a compound annual growth rate (CAGR) of 10.15%. 
 VERITA HR
