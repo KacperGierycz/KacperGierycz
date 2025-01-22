@@ -17,21 +17,21 @@ At the heart of everything I do lies a passion for communication and a commitmen
 <details>	
   <summary><b>✨ IT Marker Analysis 2025 Overview </b></summary> 
 <br>
-The global IT recruitment landscape in 2025 presents a mix of challenges and opportunities, influenced by technological advancements, economic shifts, and evolving workplace dynamics. Here's an overview: <br/>
-
+The global IT recruitment landscape in 2025 presents a mix of challenges and opportunities, influenced by technological advancements, economic shifts, and evolving workplace dynamics. Here's an overview:
+  
 **Global IT Recruitment Trends:**
 
-Artificial Intelligence (AI) Integration: AI is increasingly being utilized to enhance the recruitment process, improving candidate sourcing, screening, and engagement. However, it's essential to manage AI implementation carefully to avoid potential biases and ensure a positive candidate experience. 
-KORN FERRY | ORGANIZATIONAL CONSULTING
+1. **Artificial Intelligence (AI) Integration:**
+AI is increasingly being utilized to enhance the recruitment process, improving candidate sourcing, screening, and engagement. However, it's essential to manage AI implementation carefully to avoid potential biases and ensure a positive candidate experience.
 
-Focus on Critical Skills: There's a heightened emphasis on identifying and acquiring critical skills, particularly in areas like cybersecurity, data analytics, and AI development. Employers are prioritizing candidates with specialized expertise to stay competitive. 
-RECRUITERFLOW
+2. **Focus on Critical Skills:**
+There's a heightened emphasis on identifying and acquiring critical skills, particularly in areas like cybersecurity, data analytics, and AI development. Employers are prioritizing candidates with specialized expertise to stay competitive.
 
-Flexible Work Models: The demand for remote and hybrid work arrangements remains strong. Companies are adapting to these preferences to attract top talent, offering flexible work environments as a standard practice. 
-U.S. CHAMBER OF COMMERCE
+3. **Flexible Work Models:**
+The demand for remote and hybrid work arrangements remains strong. Companies are adapting to these preferences to attract top talent, offering flexible work environments as a standard practice.
 
-Employee Advocacy and Experience: Organizations are focusing on creating positive employee experiences and leveraging employee advocacy to attract and retain talent. A strong employer brand, supported by satisfied employees, is becoming a key differentiator. 
-RECRUITERFLOW
+4. **Employee Advocacy and Experience:**
+Organizations are focusing on creating positive employee experiences and leveraging employee advocacy to attract and retain talent. A strong employer brand, supported by satisfied employees, is becoming a key differentiator.
 
 IT Recruitment in Poland:
 
