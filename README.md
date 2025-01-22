@@ -18,7 +18,8 @@ At the heart of everything I do lies a passion for communication and a commitmen
 <details>	
   <summary><b>✨ IT Marker Analysis 2025 Overview </b></summary> 
 <br>
-The global IT recruitment landscape in 2025 presents a mix of challenges and opportunities, influenced by technological advancements, economic shifts, and evolving workplace dynamics. Here's an overview:  
+The global IT recruitment landscape in 2025 presents a mix of challenges and opportunities, influenced by technological advancements, economic shifts, and evolving workplace dynamics. Here's an overview:
+<br>
 
 ** Global IT Recruitment Trends: **  
 
