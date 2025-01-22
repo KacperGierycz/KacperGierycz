@@ -1,19 +1,55 @@
-Welcome to my GitHub blog!
+# Welcome to my GitHub blog!
+
 
 I’m an Agile professional with a knack for communication, an analytical mindset, and a talent for storytelling.
 
+
 My journey in software development has been a source of inspiration, fueling my creativity and drive to explore new ideas. I believe that the best journeys are those we share, where collaboration and shared successes make every step meaningful.
+
 
 At the heart of everything I do lies a passion for communication and a commitment to fostering interpersonal collaboration. I thrive on bringing people together, inspiring unity, and working toward shared goals with enthusiasm and purpose.
 
-Let’s connect, learn, and grow together as we explore new horizons!
+
+## Let’s connect, learn, and grow together as we explore new horizons!
 
 
 <br>
 <details>	
-  <summary><b>✨ ...Experience </b></summary> 
+  <summary><b>✨ IT Marker Analysis 2025 Overview </b></summary> 
 
-how does this expands
+The global IT recruitment landscape in 2025 presents a mix of challenges and opportunities, influenced by technological advancements, economic shifts, and evolving workplace dynamics. Here's an overview:
+
+Global IT Recruitment Trends:
+
+Artificial Intelligence (AI) Integration: AI is increasingly being utilized to enhance the recruitment process, improving candidate sourcing, screening, and engagement. However, it's essential to manage AI implementation carefully to avoid potential biases and ensure a positive candidate experience. 
+KORN FERRY | ORGANIZATIONAL CONSULTING
+
+Focus on Critical Skills: There's a heightened emphasis on identifying and acquiring critical skills, particularly in areas like cybersecurity, data analytics, and AI development. Employers are prioritizing candidates with specialized expertise to stay competitive. 
+RECRUITERFLOW
+
+Flexible Work Models: The demand for remote and hybrid work arrangements remains strong. Companies are adapting to these preferences to attract top talent, offering flexible work environments as a standard practice. 
+U.S. CHAMBER OF COMMERCE
+
+Employee Advocacy and Experience: Organizations are focusing on creating positive employee experiences and leveraging employee advocacy to attract and retain talent. A strong employer brand, supported by satisfied employees, is becoming a key differentiator. 
+RECRUITERFLOW
+
+IT Recruitment in Poland:
+
+Poland's IT sector is experiencing significant growth, with the market size estimated at $28.68 billion in 2024 and projected to reach $46.51 billion by 2029, growing at a compound annual growth rate (CAGR) of 10.15%. 
+VERITA HR
+ This expansion is driven by both domestic developments and an influx of IT talent from neighboring countries.
+
+However, this rapid growth presents challenges:
+
+Talent Shortage: The increasing demand for IT professionals may lead to a talent crunch, especially in specialized fields. The existing talent pool might struggle to meet the needs of both startups and multinational corporations operating in Poland. 
+DEVSDATA
+
+Temporary Employment Trends: Approximately 63% of companies in Poland plan to hire temporary workers in the first quarter of 2025, a 12% increase from the same period in the previous year. This trend indicates a shift towards more flexible staffing solutions in response to market uncertainties. 
+STAFFING INDUSTRY ANALYSTS
+
+Conclusion:
+
+The IT recruitment landscape in 2025 is shaped by technological integration, a focus on critical skills, and evolving work models. In Poland, while the IT sector is poised for substantial growth, addressing the potential talent shortage will be crucial. Companies may need to invest in training and development programs, explore international talent pools, and adapt to flexible employment arrangements to navigate these challenges effectively.
   
   <br />
 
