@@ -66,7 +66,7 @@ The IT recruitment landscape in 2025 is shaped by technological integration, a f
   <summary><b>🧭 Crisis in IT Market Oversaturation </b></summary> 
 <br>
 
-My observation on broader trends and concerns in the II and AI industries, especially in the software development and outstorcing sector.
+My observation on broader trends and concerns in the IT and AI industries, especially in the software development and outstorcing sector.
 Let me provide some clarity and context around these points:
 <br>
 <br>
