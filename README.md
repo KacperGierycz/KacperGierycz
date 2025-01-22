@@ -64,7 +64,7 @@ The IT recruitment landscape in 2025 is shaped by technological integration, a f
   <br>
 
 <details>
-<summary>Jave Developer</summary>
+<summary>:coffe: Jave Developer</summary>
 I am a Java developer who has found a true passion in programming. It has become my life, presenting both challenges and wonders. Grit, perseverance, and focus are my guiding principles.
 
 
@@ -77,8 +77,6 @@ My personal favorites are algorithms and programmatic challenges on [HackerRankP
 
   
 </details>
-
-<h2 align="left" id="macropower-tech">How I learn</h2>
 
 <br>
 <details>	
