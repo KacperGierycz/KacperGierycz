@@ -11,7 +11,7 @@ My journey in software development has been a source of inspiration, fueling my 
 At the heart of everything I do lies a passion for communication and a commitment to fostering interpersonal collaboration. I thrive on bringing people together, inspiring unity, and working toward shared goals with enthusiasm and purpose.
 
 
-## Let’s connect, learn, and grow together as we explore new horizons!
+**Let’s connect, learn, and grow together as we explore new horizons!**
 
 
 <br>
